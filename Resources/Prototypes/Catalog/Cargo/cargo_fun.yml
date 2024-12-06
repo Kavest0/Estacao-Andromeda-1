@@ -128,7 +128,7 @@
     sprite: Objects/Weapons/Guns/Rifles/foam_rifle.rsi
     state: icon
   product: CrateFunFoamGuns
-  cost: 3000
+  cost: 4000
   category: cargoproduct-category-name-fun
   group: market
 

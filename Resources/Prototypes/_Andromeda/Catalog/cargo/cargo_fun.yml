@@ -1,0 +1,20 @@
+- type: cargoProduct
+  id: CrateFunFoamSabre
+  icon:
+    sprite: DeltaV/Objects/Fun/Toys/foam_sabre.rsi
+    state: icon
+  product: CrateFunFoamSabre
+  cost: 1500
+  category: cargoproduct-category-name-fun
+  group: market
+
+- type: entity
+  id: CrateFunFoamSabre
+  parent: CratePlastic
+  name: Foam Sabre Crate
+  description: Para fãs de duelos.
+  components:
+  - type: StorageFill
+    contents:
+    - id: ClothingBeltFoamSheathFilled
+      amount: 2

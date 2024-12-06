@@ -378,6 +378,8 @@
       amount: 2
     - id: GrenadeFoamDart
       amount: 4
+    - id: ClothingBeltFoamSheathFilled
+      amount: 2
 
 - type: entity
   id: CrateFunBoxing

@@ -1,0 +1,8 @@
+- type: entity
+  parent: BaseMailLarge
+  id: MailFoamSabre
+  suffix: Foam sabre
+  components:
+  - type: Mail
+    contents:
+    - id: ClothingBeltFoamSheathFilled

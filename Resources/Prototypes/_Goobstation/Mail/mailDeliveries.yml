@@ -59,6 +59,7 @@
     MailMuggingThreat: 0.2
     MailSkele: 0.05
     MailSpamMail: 0.5
+    MailFoamSabre: 0.1 # DeltaV - Add foam sabre to general pool.
   # Tools
     MailSignallerKit: 0.5
     MailFlashlight: 0.8
