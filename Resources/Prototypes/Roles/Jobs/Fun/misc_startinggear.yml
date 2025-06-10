@@ -178,7 +178,7 @@
   inhand:
     - WeaponMeleeToolboxRobust
 
-#Brigmedic
+#Brigmedic - added back as a normal role
 
 # - type: startingGear
 #  id: BrigmedicGear
