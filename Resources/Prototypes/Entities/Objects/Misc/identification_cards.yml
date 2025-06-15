@@ -670,20 +670,6 @@
 
 - type: entity
   parent: IDCardStandard
-  id: BrigmedicIDCard
-  name: brigmedic ID card
-  components:
-  - type: Sprite
-    sprite: _DV/Objects/Misc/id_cards.rsi # DeltaV - resprite security IDs
-    layers:
-    - state: default #base
-    - state: decal-stripe-security #decal
-    - sprite: _DV/Interface/Misc/job_icons.rsi #icon
-      offset: "-0.125, 0.09375"
-      state: Brigmedic
-
-- type: entity
-  parent: IDCardStandard
   id: CentcomIDCard
   name: command officer ID card
   components:
