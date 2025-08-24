@@ -30,3 +30,19 @@
   sprites:
     - sprite: _Impstation/Mobs/Customization/human_hair.rsi
       state: frenchbraid
+
+- type: marking
+  id: HumanHairEyeBangShort
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/human_hair.rsi
+    state: eyebangshort
+
+- type: marking
+  id: HumanHairOverEyesLong
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/human_hair.rsi
+    state: overeyeslong
