@@ -163,3 +163,9 @@
 - type: lobbyBackground
   id: YL
   background: /Textures/LobbyScreens/YL.webp
+
+- type: lobbyBackground
+  id: KaasiDoshi
+  background: /Textures/LobbyScreens/KAASI_DOSHI.webp
+  name: CAPTAIN'S BURDEN
+  artist: GooseyTeeth
