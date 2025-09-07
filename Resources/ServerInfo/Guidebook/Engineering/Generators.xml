@@ -7,20 +7,19 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  # Generators
-  Generators are devices that produce power for the station. They vary in size and power output, and each has its own unique quirks and requirements.
+  # Geradores
+  Geradores são dispositivos que produzem energia para a estação. Eles variam em tamanho e potência, e cada um tem suas peculiaridades e requisitos específicos.
 
-  Engineers are intended to setup low-tier generators like Solar Arrays and the AME at the start of the shift, to give enough time to setup higher-tier generators like the Singularity Engine for sustained power for the rest of the shift.
-
+  Os engenheiros devem configurar geradores de nível inferior, como os Solares e o AME no início de cada turno, para dar tempo suficiente para configurar geradores de nível superior, como o Motor de Singularidade, para sustentar a energia pelo resto do turno.
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
     <GuideEntityEmbed Entity="TeslaGenerator" Caption=""/>
   </Box>
   <Box>
-    ## Singularity and Tesla Engine
+    ## Motor de Singularidade e Tesla
   </Box>
   <Box>
-    [color=#999999][italic]Devices capable of infinite energy — and destructive potential[italic][/color]
+    [color=#999999][italic]Dispositivos capazes de energia infinita - e com potencial destrutivo[italic][/color]
   </Box>
 
   <Box>
@@ -28,10 +27,10 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
   </Box>
   <Box>
-    ## Antimatter Engine
+    ## Motor de Antimatéria
   </Box>
   <Box>
-    [color=#999999][italic]Short-term support generator for the station[italic][/color]
+    [color=#999999][italic]Gerador de suporte de curto prazo para a estação[italic][/color]
   </Box>
 
   <Box>
@@ -40,10 +39,10 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="TegCirculator" Caption="" Margin="0"/>
   </Box>
   <Box>
-    ## Thermo-electric Generator
+    ## Gerador Thermo-Elétrico
   </Box>
   <Box>
-    [color=#999999][italic]Advanced atmospherics generator that harnesses the energy of gasses[italic][/color]
+    [color=#999999][italic]Gerador atmosférico avançado que aproveita a energia dos gases[italic][/color]
   </Box>
 
   <Box>
@@ -52,10 +51,10 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
   <Box>
-    ## Solar Panels
+    ## Painéis Solares
   </Box>
   <Box>
-    [color=#999999][italic]Low-maintenance passive power source[italic][/color]
+    [color=#999999][italic]Fonte de energia passiva de baixa manutenção[italic][/color]
   </Box>
 
 
@@ -65,19 +64,19 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="" />
   </Box>
   <Box>
-    ## Portable Generators
+    ## Geradores Portáteis
   </Box>
   <Box>
-    [color=#999999][italic]Portable generators for crew use and emergency power[italic][/color]
+    [color=#999999][italic]Geradores portáteis para uso da tripulação e energia de emergência[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="GeneratorRTG" Caption="" />
   </Box>
   <Box>
-    ## Radioisotope Thermoelectric Generator
+    ## Gerador Termoelétrico de Radioisótopos
   </Box>
   <Box>
-    [color=#999999][italic]Zero-maintenance passive power source[italic][/color]
+    [color=#999999][italic]Fonte de energia passiva de manutenção zero[italic][/color]
   </Box>
 </Document>
