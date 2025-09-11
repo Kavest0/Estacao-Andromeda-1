@@ -32,7 +32,7 @@
       types:
         Heat : 0.5 #O padrão é 1.5
   - type: NightVision
-    color: "#803b3b"
+    color: "#e0224b"
     activateSound: null
     deactivateSound: null
   - type: Damageable
