@@ -7,19 +7,19 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  # Singularity / Tesla Engine
+  # Motor de Singularidade / Motor de Tesla
 
-  The Singularity Engine / Tesla Engine can yield [color=#a4885c]infinite power[/color] for the entire shift, making it a valuable asset to the station.
+  O Motor de Singularidade/Motor de Tesla pode gerar [color=#a4885c]energia infinita[/color] durante todo o turno, oque o torna um recurso valioso para a estação.
 
-  It can also [color=red]destroy the whole station[/color] with equal ease, and requires careful preparation and monitoring to prevent a [bold]loose[/bold].
+  Ele também pode [color=red]destruir a estação inteira[/color] com a mesma facilidade e requer preparação e monitoramento cuidadoso para evitar um [bold]loose[/bold].
 
-  # Setting it up
-  Both engines follow the same basic setup steps, but have different subsystems and requirements.
+  # Configurando
+  Ambos os motores seguem as mesmas etapas básicas de configuração, mas têm subsistemas e requisitos diferentes.
 
-  ## Containment Field
-  The Containment Field is a multi-tile beam field that repels the singularity or tesla, keeping it from escaping.
+  ## Campo de contenção
+  O campo de Contenção é um campo de feixe de múltiplas camadas que repele a singularidade ou tesla, impedindo que ela escape.
 
-  The emitter lasers and the containment fields can also cause damage and/or cause you to be sent flying into deep space; [color=#a4885c]avoid touching them[/color] when active.
+  Os lasers emissores e os campos de contenção também podem causar danos e/ou fazer com que você seja lançado no espaço profundo; [color=#a4885c]evite tocá-los[/color] quando estiverem ativos.
 
   <Box>
     <GuideEntityEmbed Entity="Emitter"/>
@@ -27,23 +27,23 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="ContainmentField"/>
   </Box>
 
-  Containment Fields are generated between active Containment Field Generators, which are powered by emitters.
+  Campos de Contenção são gerados entre Geradores de Campos de Contenção ativos, que são alimentados por emissores.
 
-  A containment field generator can generate a containment field if:
-  - The generator has been turned on,
-  - another field generator is within 8 tiles,
-  - and the field generators are on the same cardinal axis.
+  Um gerador de campo de contenção pode gerar um campo de contenção se:
+  - O gerador estiver ligado,
+  - Outro gerador de campo está dentro de 8 blocos,
+  - E os geradores de campo estão no mesmo eixo cardinal.
 
-  This means that the maximum length of a containment field is 7 tiles.
+  Isso significa que o comprimento máximo de um campo de contenção é de 7 peças.
 
-  You can turn on a containment field generator by interacting with it using [color=yellow][bold][keybind="Use"][/bold][/color].
-  Containment field generators won't work if they aren't turned on, even when struck by an emitter. Remember to turn on the field generator!
+  Você pode ativar um gerador de campo de contenção interagindo com ele usando o [color=yellow][bold][keybind="Use"][/bold][/color].
+  Os geradores de campo de contenção não funcionarão se não estiverem ativados, mesmo quando atingidos por um emissor. Lembre-se de ativar o gerador de campo!
 
-  The containment field generator has an internal energy level, which is filled by striking it with an emitter. When the containment field generator has enough stored energy, it will generate a containment field.
+  O gerador de campo de contenção possui um nível de energia interno, que é preenchido ao ser atingido por um emissor. Quando o gerador de campo de contenção tiver energia armazenada suficiente, ele gerará um campo de contenção.
 
-  This energy level will naturally decay over time, and the field will disappear when the energy level reaches zero after a delay.
+  Esse nível de energia decairá naturalmente com o tempo, e o campo desaparecerá quando o nível de energia atingir zero após um atraso.
 
-  When the containment field is active, you cannot turn off the field generator or unanchor it. You must wait for the field to decay before you can turn off the generator.
+  Quando o campo de contenção estiver ativo, você não poderá desligar o gerador de campo ou ancorá-lo. Você deve esperar que o campo decaia antes de poder desligar o gerador.
 
   <Box>
     <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
@@ -53,19 +53,19 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
   </Box>
 
-  ## Emitters
-  Emitters are the devices that power the containment field generators.
+  ## Emissores
+  Emissores são os dispositivos que alimentam os geradores do campo de contenção.
 
   <Box>
     <GuideEntityEmbed Entity="Emitter"/>
   </Box>
 
-  The emitters connect to MV cables, and fire lasers as long as they have power and are turned on.
+  Os emissores se conectam a cabos de [color=yellow]média tensão(MV)[/color] e disparam lasers enquanto estiverem energizados e ligados.
 
-  It is recommended to [color=#a4885c]lock the emitters[/color] with [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color], to prevent any break-in no-gooders from loosing the singularity or tesla by simply switching off the field.
+  É recomendável [color=#a4885c]trancar os emissores[/color] com [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color], para evitar que qualquer invasor solte a Singularidade ou Tesla simplesmente desligando o campo.
 
-  ## Particle Accelerator
-  The Particle Accelerator (PA) is a multi-tile structure that launches accelerated particles from its emitters.
+  ## Acelerador de Partículas
+  O Acelerador de Partículas(PA) é uma estrutura com várias peças que lança partículas aceleradas de seus emissores.
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
@@ -87,16 +87,16 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="ParticleAcceleratorEmitterPort" Caption="" Margin="0"/>
   </Box>
 
-  Some stations already have an unfinished PA.
-  To complete it, first ensure there is a MV cable beneath the PA power box, anchor all the parts, and then add an LV cable to each part.
+  Algumas estações já possuem um sistema de PA inacabado.
+  Para completá-lo, primeiro certifique-se de que haja um cabo de [color=yellow]média tensão(MV)[/color] sob a caixa de alimentação do PA, fixe todas as peças e, em seguida, adicione um cabo de [color=green]baixa tensão(LV)[/color] em cada parte.
 
   <Box>
     <GuideEntityEmbed Entity="CableApcStack"/>
   </Box>
 
-  Then use a screwdriver to screw back the panels.
-  [color=#a4885c]Scan parts[/color] using the PA control computer to check if it's operational (the PA will not function if you do not scan it!).
-  If it shows up as incomplete, examine what's missing.
+  Em seguida, use uma chave de fenda para parafusar os painéis de volta.
+  [color=#a4885c]Escaneie as peças[/color] usando o computador de controle do PA para verificar se está funcionando (o PA não funcionará se você não escaneá-lo!).
+  Se aparecer como incompleto, examine oque está faltando.
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorControlBox"/>

@@ -650,7 +650,7 @@
 #  categories: [ HideSpawnMenu ]
 #  components:
 #  - type: Surgery
-#    #requirement: SurgeryOpenIncision
+#    requirement: SurgeryOpenIncision
 #    steps:
 #    - SurgeryStepAddFelinidEars
 #  - type: SurgeryPartCondition
@@ -676,7 +676,7 @@
 #    markingCategory: HeadTop
 #    matchString: FelinidEars
 
-#- type: entity
+# - type: entity
 #  parent: SurgeryBase
 #  id: SurgeryAddFelinidTail
 #  name: Add cat tail

@@ -99,7 +99,7 @@ ghost-role-information-neanderthal-rules = You are a [color=yellow][bold]Neander
                                          You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
                                          You are [color=red]NOT[/color] allowed to cause mass station destruction, such as releasing the singularity from containment.
 
-#funkystation
+# funkystation
 ghost-role-information-shiva-name = Shiva the Spider
 ghost-role-information-shiva-description = Head Of Security's most trusted pet. First defender of the station.
 ghost-role-information-shiva-rules = You are [bold]Shiva the Spider[/bold]. The Head of Security's highly trained and most trusted pet.
