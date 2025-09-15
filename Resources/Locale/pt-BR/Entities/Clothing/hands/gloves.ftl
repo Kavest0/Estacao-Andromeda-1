@@ -48,9 +48,6 @@ ent-ClothingHandsMercGlovesCombat = Luvas de Combate dos Mercenários
 ent-ClothingHandsGlovesFingerless = Luvas sem Dedos
     .desc = Luvas pretas lisas sem pontas dos dedos para quem trabalha duro.
 
-ent-ClothingHandsGlovesFingerlessInsulated = Luvas Isolantes sem Dedos
-    .desc = Luvas isolantes resistente a choques, ou pelo menos costumavam ser.
-
 ent-ClothingHandsGlovesMercFingerless = Luvas dos Mercenários sem Dedos
     .desc = Luvas que podem não proteger você de queimaduras nos dedos, mas o deixarão mais fresco.
 
