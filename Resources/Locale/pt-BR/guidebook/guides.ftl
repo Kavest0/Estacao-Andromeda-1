@@ -1,6 +1,5 @@
 guide-entry-engineering = Engenharia
 guide-entry-construction = Construção
-guide-entry-airlock-security = Segurança de porta hermética
 guide-entry-expandingrepairingstation = Expansão e Reparação de Estações
 guide-entry-airlock-security = Melhoria das Câmaras de Descompressão
 guide-entry-wirepanels = Painéis de Fios
@@ -138,43 +137,14 @@ guide-entry-rules-ban-types = Tipos de Banimentos
 guide-entry-rules-ban-durations = Duração de Banimentos
 guide-entry-metashield = Metashield
 
-guide-entry-command-sop = Comando SOP
-guide-entry-security-sop = SegurançaSOP
-guide-entry-legal-sop = Legal SOP
-guide-entry-engineering-sop = Engenharia SOP
-guide-entry-medical-sop = Medíco SOP
-guide-entry-service-sop = Serviço SOP
-guide-entry-cargo-sop = Cargo SOP
-guide-entry-science-sop = Ciência SOP
-guide-entry-eoc-sop = Inimigos da Corp.
-guide-entry-alert-sop = Níveis de Alerta
-
 guide-entry-newplayer = Novo? Comece aqui!
 guide-entry-charactercreation = Criando Personagens
-guide-entry-species = Espécies
 guide-entry-yourfirstcharacter = Seu primeiro Personagem
-guide-entry-controls = Controles
 
 guide-entry-references = Tabelas & Referências
 guide-entry-chemicals = Químicos
 guide-entry-drinks = Bebidas
 guide-entry-foodrecipes = Receita de Comida
-
-guide-entry-surgery = Cirurgia
-guide-entry-partmanipulation = Manipulação de Partes
-guide-entry-organmanipulation = Manipulação de Orgãos
-guide-entry-utilitysurgeries = Utilitários da Cirurgia
-
-guide-entry-elements = Elementos
-guide-entry-medicine = Medicina
-guide-entry-narcotics = Narcoticos
-guide-entry-pyrotechnics = Pyrotechnico
-guide-entry-toxins = Toxinas
-guide-entry-foods = Comidas
-guide-entry-biological = Biológico
-guide-entry-botanical = Botânico
-guide-entry-special = Especial
-guide-entry-others = Outros
 
 guide-entry-writing = Escrita
 guide-entry-IPCs = IPCs

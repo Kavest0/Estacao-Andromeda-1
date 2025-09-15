@@ -1,3 +1,5 @@
+surgery-verb-text = Iniciar cirurgia
+surgery-verb-message = Começar cirurgia nessa entidade
 surgery-ui-window-title = Cirurgia
 surgery-ui-window-require = Necessário
 surgery-ui-window-parts = < Membros
