@@ -31,8 +31,9 @@ ban-banned-permanent = Este ban só será removido através de apelo.
 ban-banned-permanent-appeal = Este ban só será removido através de apelo através do link {$link}
 ban-expires = Este ban dura {$duration} minutos e irá expirar em {$time} UTC.
 ban-banned-1 = Você ou outro usuário desse computador ou conexão estão banidos aqui.
-ban-banned-2 = O motivo do ban é: "{$reason}"
-ban-banned-3 = Tentativas de contornar o ban tal como criar uma conta nova serão registradas.
+ban-banned-2 = Você foi banido por: "{$adminName}"
+ban-banned-3 = O motivo do ban é: "{$reason}"
+ban-banned-4 = Tentativas de contornar o ban tal como criar uma conta nova serão registradas.
 
 soft-player-cap-full = O servidor está cheio!
 panic-bunker-account-denied = Este servidor está no modo panic bunker, geralmente ativado como precaução contra ataques. Novas conexões por contas que não atendam a determinados requisitos não serão aceitas temporariamente. Tente mais tarde
