@@ -163,3 +163,16 @@ figurines-gertulio-33 = Se quiser eu cozinho alguma coisa vamos aproveitar e se 
 figurines-gertulio-34 = Foi mal, não pude deixar de rir foi engraçado.
 figurines-gertulio-35 = Como é bom passar momentos assim.
 figurines-gertulio-36 = Eu amo vocês.
+
+figurines-pax-1 = Não é terrorismo, é negociação agressiva.
+figurines-pax-2 = Hey, não me entregue pro Warden, eu sou um produto oficial NanoTrasen!
+figurines-pax-3 = WHISKEY, ECHO, WHISKEY.
+figurines-pax-4 = Ainda não entendendo a diferença entre o Atlas e o Amwar, ambos compartilham o mesmo neurônio.
+figurines-pax-5 = o Sind... Digo, a NanoTrasen não se responsabiliza por partes cortantes nesse boneco!
+figurines-pax-6 = Somos Pax!
+figurines-pax-7 = Você deveria ter comprado a edição Deluxe, ela vem com uma Emag de "brinquedo"!
+figurines-pax-8 = Somos Pax!!
+
+
+
+

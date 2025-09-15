@@ -136,3 +136,49 @@
     state: Gertulio_figure
   - type: SpeakOnTrigger
     pack: FigurinesGertulio
+
+- type: entity
+  parent: [ToyFigurineExemploCatarse,  BaseSyndicateContraband ]
+  id: ToyFigurinePax
+  name: Pax Kally
+  description: "Conheça seu inimigo"
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/figures_catarse.rsi
+    state: pax_figure
+  - type: SpeakOnTrigger
+    pack: FigurinesPax
+  - type: MeleeWeapon
+    attackRate: 0.5
+    wideAnimationRotation: -120
+    damage:
+      types:
+        Slash: 2
+    soundHit:
+      path: /Audio/Weapons/bladeslice.ogg
+
+###### Box
+
+- type: entity
+  name: Pax box
+  parent: BoxCardboard
+  id: BoxPax
+  description: Uma caixa de Pax. Contem duas Pax.
+  components:
+  - type: Item
+    size: Large
+    shape:
+    - 0,0,1,1
+  - type: Storage
+    maxItemSize: Small
+    grid:
+    - 0,0,1,1
+  - type: StorageFill
+    contents:
+      - id: ToyFigurinePax
+        amount: 2
+  - type: Sprite
+    layers:
+      - state: box
+      - sprite: _Andromeda/misc/box_figures.rsi
+        state: pax_box
