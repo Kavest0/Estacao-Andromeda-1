@@ -45,3 +45,9 @@
   values:
     prefix: figurines-gertulio-
     count: 36
+
+- type: localizedDataset
+  id: FigurinesPax
+  values:
+    prefix: figurines-pax-
+    count: 8

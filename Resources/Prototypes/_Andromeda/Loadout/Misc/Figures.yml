@@ -58,6 +58,14 @@
     back:
     - ToyFigurineGertulio
 
+- type: loadout
+  id: FigurePax
+  storage:
+    back:
+    - BoxPax
+  Sprite:
+    
+
 
 #- type: loadout
 #  id: FigureMarcos
