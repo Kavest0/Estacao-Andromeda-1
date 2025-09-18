@@ -263,7 +263,9 @@
   reactants:
     Ambuzol:
       amount: 5
-    Omnizine:
+    Necrosol:
+      amount: 1
+    Plasma:
       amount: 5
   products:
     AmbuzolPlus: 10
@@ -601,7 +603,7 @@
   id: Opporozidone
   minTemp: 400 #Maybe if a method of reducing reagent temp exists one day, this could be -50
   reactants:
-    Cognizine:
+    Acetone:
       amount: 1
     Plasma:
       amount: 2
@@ -617,8 +619,10 @@
   reactants:
     Blood:
       amount: 3
-    Omnizine:
-      amount: 1
+    Ammonia:
+      amount: 10
+    Doxarubixadone:
+      amount: 2
     Cryoxadone:
       amount: 2
   products:

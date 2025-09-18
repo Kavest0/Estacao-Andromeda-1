@@ -286,7 +286,7 @@
   physicalDesc: reagent-physical-desc-bubbling
   flavor: medicine
   color: "#32cd32"
- # worksOnTheDead: true
+  worksOnTheDead: true # Andromeda
   metabolisms:
     Medicine:
       effects:
