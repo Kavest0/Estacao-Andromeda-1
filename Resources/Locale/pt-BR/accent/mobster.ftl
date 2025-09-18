@@ -1,59 +1,59 @@
 accent-mobster-prefix-1 = Nyehh,
 
 accent-mobster-suffix-boss-1 = , viu?
-accent-mobster-suffix-boss-2 = , esqueçaê.
+accent-mobster-suffix-boss-2 = , tendeu?.
 accent-mobster-suffix-boss-3 = , capiche?
 
-accent-mobster-suffix-minion-1 = , yeah!
+accent-mobster-suffix-minion-1 = , certo!
 accent-mobster-suffix-minion-2 = , chefe disse!
 
-accent-mobster-words-1 = let me
-accent-mobster-words-replace-1 = lemme
+accent-mobster-words-1 = deixa eu
+accent-mobster-words-replace-1 = dexeu
 
-accent-mobster-words-2 = should
-accent-mobster-words-replace-2 = oughta
+accent-mobster-words-2 = deveria
+accent-mobster-words-replace-2 = devia
 
-accent-mobster-words-3 = the
-accent-mobster-words-replace-3 = da
+accent-mobster-words-3 = o
+accent-mobster-words-replace-3 = ô
 
-accent-mobster-words-4 = them
-accent-mobster-words-replace-4 = dem
+accent-mobster-words-4 = eles
+accent-mobster-words-replace-4 = os cara
 
-accent-mobster-words-5 = attack
-accent-mobster-words-replace-5 = whack
+accent-mobster-words-5 = atacar
+accent-mobster-words-replace-5 = dar um jeito
 
-accent-mobster-words-6 = kill
-accent-mobster-words-replace-6 = whack
+accent-mobster-words-6 = matar
+accent-mobster-words-replace-6 = apagar
 
-accent-mobster-words-7 = murder
-accent-mobster-words-replace-7 = whack
+accent-mobster-words-7 = assassinar
+accent-mobster-words-replace-7 = passar o cerol
 
-accent-mobster-words-8 = dead
-accent-mobster-words-replace-8 = sleepin' with da fishies
+accent-mobster-words-8 = morto
+accent-mobster-words-replace-8 = foi pro saco
 
-accent-mobster-words-9 = hey
-accent-mobster-words-replace-9 = ey'o
+accent-mobster-words-9 = ei
+accent-mobster-words-replace-9 = ô meu
 
-accent-mobster-words-10 = hi
-accent-mobster-words-replace-10 = ey'o
+accent-mobster-words-10 = oi
+accent-mobster-words-replace-10 = falae
 
-accent-mobster-words-11 = hello
-accent-mobster-words-replace-11 = ey'o
+accent-mobster-words-11 = olá
+accent-mobster-words-replace-11 = falae
 
-accent-mobster-words-12 = rules
-accent-mobster-words-replace-12 = roolz
+accent-mobster-words-12 = regras
+accent-mobster-words-replace-12 = lei da rua
 
-accent-mobster-words-13 = you
-accent-mobster-words-replace-13 = yous
+accent-mobster-words-13 = você
+accent-mobster-words-replace-13 = ocê
 
-accent-mobster-words-14 = have to
-accent-mobster-words-replace-14 = gotta
+accent-mobster-words-14 = tem que
+accent-mobster-words-replace-14 = tem que fazer
 
-accent-mobster-words-15 = going to
-accent-mobster-words-replace-15 = boutta
+accent-mobster-words-15 = vai
+accent-mobster-words-replace-15 = tá indo
 
-accent-mobster-words-16 = about to
-accent-mobster-words-replace-16 = boutta
+accent-mobster-words-16 = prestes a
+accent-mobster-words-replace-16 = quase lá
 
-accent-mobster-words-17 = here
-accent-mobster-words-replace-17 = 'ere
+accent-mobster-words-17 = aqui
+accent-mobster-words-replace-17 = aqui ó

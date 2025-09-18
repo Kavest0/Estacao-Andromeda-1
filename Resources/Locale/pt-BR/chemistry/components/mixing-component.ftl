@@ -1,10 +1,10 @@
 # Types
 mixing-verb-default-mix = misturar
 mixing-verb-default-grind = triturar
-mixing-verb-default-juice = suco
+mixing-verb-default-juice = espremer
 mixing-verb-default-condense = condensar
-mixing-verb-centrifuge = centrifugação
-mixing-verb-electrolysis = eletrólise
+mixing-verb-centrifuge = centrifugar
+mixing-verb-electrolysis = eletrólisar
 mixing-verb-holy = abençoar
 
 ## Entity
