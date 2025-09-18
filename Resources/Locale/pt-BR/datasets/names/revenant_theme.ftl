@@ -1,5 +1,5 @@
 names-revenant-theme-dataset-1 = Agonia
-names-revenant-theme-dataset-2 = raiva.
+names-revenant-theme-dataset-2 = raiva
 names-revenant-theme-dataset-3 = Morte
 names-revenant-theme-dataset-4 = Desesperamento
 names-revenant-theme-dataset-5 = desespero
@@ -12,7 +12,7 @@ names-revenant-theme-dataset-11 = Rir
 names-revenant-theme-dataset-12 = pobreza
 names-revenant-theme-dataset-13 = Ruína
 names-revenant-theme-dataset-14 = amargura
-names-revenant-theme-dataset-15 = Grite.
+names-revenant-theme-dataset-15 = Grite
 names-revenant-theme-dataset-16 = Triste
 names-revenant-theme-dataset-17 = Sofrimento
 names-revenant-theme-dataset-18 = Vingança
