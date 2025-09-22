@@ -1,5 +1,5 @@
 department-Cargo = Logística
-department-Civilian = Serviços Civis
+department-Civilian = Serviço Civil
 department-Command = Comando
 department-Engineering = Engenharia
 department-Medical = Médicina
