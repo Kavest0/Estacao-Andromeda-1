@@ -9,7 +9,7 @@ reagent-grinder-component-upgrade-storage = Armazenamento
 
 grinder-menu-title = Triturador Tudo-Em-Um 3000
 grinder-menu-grind-button = Triturar
-grinder-menu-juice-button = Suco
+grinder-menu-juice-button = Espremer
 grinder-menu-auto-label = Modo automático
 grinder-menu-auto-button-off = Desligado
 grinder-menu-manual-label = Modo manual
