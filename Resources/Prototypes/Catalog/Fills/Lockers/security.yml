@@ -142,7 +142,8 @@
   components:
   - type: StorageFill
     contents:
-      - id: ClothingEyesHudMedSec
+      - id: ClothingEyesGlassesMedSec
+      - id: WeaponDisabler
       - id: TrackingImplanter
         amount: 2
       - id: ClothingOuterHardsuitBrigmedic
@@ -150,11 +151,18 @@
       - id: NitrogenTankFilled
       - id: BoxSterileMask
       - id: ClothingHeadHatBeretBrigmedic
+      - id: ClothingOuterCoatAMG
+      - id: ClothingUniformJumpsuitBrigmedic
+      - id: ClothingUniformJumpskirtBrigmedic
+      - id: ClothingUniformJumpskirtOfLife
       - id: MedkitFilled
+      - id: MedkitCombatFilled
+      - id: MedkitAdvancedFilled
       - id: MedkitOxygenFilled
       - id: MedkitBruteFilled
       - id: MedkitToxinFilled
       - id: MedkitBurnFilled
+      - id: ClothingNeckCloakMoth #bzzz Moth-pocalypse
 
 - type: entity
   id: LockerDetectiveFilled
