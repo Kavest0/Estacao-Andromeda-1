@@ -152,14 +152,16 @@
       - id: OxygenTankFilled
       - id: NitrogenTankFilled
       - id: BoxSterileMask
+      - id: ClothingMaskGasSwat
+      - id: ClothingHandsGlovesCombat
+      - id: ClothingHandsGlovesLatex
+      - id: ClothingHandsGlovesNitrile
       - id: ClothingHeadHatBeretBrigmedic
       - id: ClothingOuterCoatAMG
       - id: ClothingUniformJumpsuitBrigmedic
       - id: ClothingUniformJumpskirtBrigmedic
       - id: ClothingUniformJumpskirtOfLife
-      - id: MedkitFilled
       - id: MedkitCombatFilled
-      - id: MedkitAdvancedFilled
       - id: MedkitOxygenFilled
         prob: 0.3
       - id: MedkitBruteFilled
@@ -167,7 +169,6 @@
       - id: MedkitToxinFilled
         prob: 0.3
       - id: MedkitBurnFilled
-      - id: ClothingNeckCloakMoth #bzzz Moth-pocalypse
 
 - type: entity
   id: LockerDetectiveFilled
