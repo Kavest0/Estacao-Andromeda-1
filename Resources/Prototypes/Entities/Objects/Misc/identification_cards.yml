@@ -257,7 +257,10 @@
   - type: Sprite
     layers:
     - state: default
-    - state: idbrigmedic
+    - state: decal-stripe-security #decal
+    - sprite: Interface/Misc/job_icons.rsi #icon
+      offset: "-0.125, 0.09375"
+      state: Brigmedic
   - type: PresetIdCard
     job: Brigmedic
 

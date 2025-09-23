@@ -45,6 +45,8 @@
   - Survival
   - Trinkets
   - GroupSpeciesBreathTool
+
+- type: roleLoadout
   id: JobBrigmedic
   groups:
   - BrigmedicJumpsuit
