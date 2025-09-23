@@ -144,6 +144,9 @@
     contents:
       - id: ClothingEyesGlassesMedSec
       - id: WeaponDisabler
+      - id: SoapNT # DV
+      - id: HandheldCrewMonitor #funkystation
+      - id: HandheldGPSBasic
       - id: TrackingImplanter
         amount: 2
       - id: ClothingOuterHardsuitBrigmedic
