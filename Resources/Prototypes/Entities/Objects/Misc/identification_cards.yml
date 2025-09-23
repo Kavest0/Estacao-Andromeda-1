@@ -254,6 +254,21 @@
 
 - type: entity
   parent: IDCardStandard
+  id: BrigmedicIDCard
+  name: brigmedic ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: decal-stripe-security #decal
+    - sprite: Interface/Misc/job_icons.rsi #icon
+      offset: "-0.125, 0.09375"
+      state: Brigmedic
+  - type: PresetIdCard
+    job: Brigmedic
+
+- type: entity
+  parent: IDCardStandard
   id: EngineeringIDCard
   name: engineer ID card
   components:
