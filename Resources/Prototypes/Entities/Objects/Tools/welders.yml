@@ -178,6 +178,9 @@
       collection: Welder
     endSound:
       collection: WelderOff
+  - type: Tag
+    tags:
+    - WeldingTool
 
 - type: entity
   name: industrial welding tool
