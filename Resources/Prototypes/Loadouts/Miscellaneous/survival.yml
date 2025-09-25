@@ -51,6 +51,15 @@
 
 # Basic
 - type: loadout
+  id: EmergencySilicon
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: Silicon
+  storage:
+    back:
+    - BoxSurvivalSlotsSilicon
+
+- type: loadout
   id: EmergencyOxygen
   effects:
   - !type:GroupLoadoutEffect
