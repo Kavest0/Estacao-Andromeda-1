@@ -15,6 +15,13 @@
 
 # Species
 - type: loadoutEffectGroup
+  id: HumanoidSilicon
+  effects:
+  - !type:SpeciesLoadoutEffect
+    species:
+    - IPC
+
+- type: loadoutEffectGroup
   id: NitrogenBreather
   effects:
   - !type:SpeciesLoadoutEffect
