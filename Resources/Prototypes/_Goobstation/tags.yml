@@ -168,3 +168,6 @@
 
 - type: Tag
   id: FlashIgnoreResistances
+
+- type: Tag
+  id: DisposableBattery

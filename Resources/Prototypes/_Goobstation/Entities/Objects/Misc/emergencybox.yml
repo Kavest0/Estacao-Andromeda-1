@@ -154,10 +154,6 @@
         whitelist:
           tags:
           - DisposableBattery
-      weldingmask:
-        whitelist:
-          tags:
-          - WeldingMask
       welder:
         whitelist:
           tags:
@@ -166,10 +162,6 @@
         whitelist:
           tags:
           - CableCoil
-      oil:
-        whitelist:
-          tags:
-          - Oilpack
 
 
 - type: entity
@@ -508,7 +500,7 @@
 - type: entity
   parent: BoxSurvivalSlots
   id: BoxSurvivalSlotsSilicon
-  name: Caixa de Sobrevivência para Sintéticos
+  suffix: Silicon
   description: É uma caixa que contém equipamentos básicos para auto-reparo.
   components:
   - type: ContainerContainer
