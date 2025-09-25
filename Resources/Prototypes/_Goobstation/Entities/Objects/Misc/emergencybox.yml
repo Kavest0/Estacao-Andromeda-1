@@ -542,7 +542,7 @@
         ejectOnInteract: false
         whitelist:
           tags:
-          - Oilpack
+          - OilPack
   - type: ContainerFill
     containers:
       battery:

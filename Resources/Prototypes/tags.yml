@@ -1107,6 +1107,9 @@
   id: NukeOpsUplink
 
 - type: Tag
+  id: OilPack
+
+- type: Tag
   id: Ointment
 
 - type: Tag
@@ -1570,6 +1573,9 @@
 
 - type: Tag
   id: WeldingMask
+
+- type: Tag
+  id: WeldingTool
 
 - type: Tag
   id: WetFloorSign
