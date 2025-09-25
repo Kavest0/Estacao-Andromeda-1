@@ -54,7 +54,7 @@
   id: EmergencySilicon
   effects:
   - !type:GroupLoadoutEffect
-    proto: Silicon
+    proto: HumanoidSilicon
   storage:
     back:
     - BoxSurvivalSlotsSilicon
