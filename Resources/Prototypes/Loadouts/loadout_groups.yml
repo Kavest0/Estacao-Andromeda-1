@@ -144,7 +144,7 @@
   - EmergencyNitrogen
   - EmergencyOxygen
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # DeltaV
+  - EmergencySilicon
 
 # nitrogen or oxygen tank, depending on what your species needs
 - type: loadoutGroup
@@ -592,7 +592,7 @@
   - EmergencyNitrogenClown
   - EmergencyOxygenClown
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
+  - EmergencySilicon
 
 - type: loadoutGroup
   id: MimeHead
@@ -651,7 +651,7 @@
   - EmergencyOxygenMime
   - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
+  - EmergencySilicon
 
 - type: loadoutGroup
   id: MusicianJumpsuit
@@ -960,7 +960,7 @@
   - EmergencyNitrogenExtended
   - EmergencyOxygenExtended
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
+  - EmergencySilicon
 
 # Science
 - type: loadoutGroup
@@ -1321,7 +1321,7 @@
   - EmergencyNitrogenSecurity
   - EmergencyOxygenSecurity
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
+  - EmergencySilicon
 
 - type: loadoutGroup
   id: SecurityStar
@@ -1545,7 +1545,7 @@
   - EmergencyNitrogenMedical
   - EmergencyOxygenMedical
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
+  - EmergencySilicon
 
 # Wildcards
 - type: loadoutGroup
@@ -1590,8 +1590,8 @@
   - EmergencyNitrogenSyndicate
   - EmergencyOxygenSyndicate
   - LoadoutSpeciesVoxNitrogen
-  - EmergencyIPCBox # Funky
-  
+  - EmergencySilicon
+
 - type: loadoutGroup
   id: GroupSpeciesBreathTool
   name: loadout-group-breath-tool
