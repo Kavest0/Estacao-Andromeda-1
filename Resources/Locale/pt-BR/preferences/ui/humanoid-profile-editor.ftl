@@ -46,7 +46,7 @@ humanoid-profile-editor-preference-spawn-priority-arrivals = Chegadas
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Crio-hibernar
 
 humanoid-profile-editor-jobs-amount-in-department-tooltip = Trabalhos no departamento: {$departmentName}
-humanoid-profile-editor-department-jobs-label = Trabalhos {$departmentName}
+humanoid-profile-editor-department-jobs-label = Trabalhos de {$departmentName}
 humanoid-profile-editor-antags-tab = Antagonistas
 humanoid-profile-editor-antag-preference-yes-button = Sim
 humanoid-profile-editor-antag-preference-no-button = Não

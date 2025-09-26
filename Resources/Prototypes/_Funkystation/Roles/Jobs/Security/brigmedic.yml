@@ -31,15 +31,12 @@
 - type: startingGear
   id: BrigmedicGear
   equipment:
-    gloves: ClothingHandsGlovesNitrile
     eyes: ClothingEyesGlassesMedSec
     id: BrigmedicPDA
     ears: ClothingHeadsetBrigmedic
-    belt: ClothingBeltMedicalFilled
-    pocket1: WeaponDisabler
+    pocket2: BrigmedLockerTeleporter
   storage:
     back:
     - Flash
     - SecHypo # Goobstation
     - autoInjectorCartridgeCaseSoftFilled
-    - WeaponPistolMk58
