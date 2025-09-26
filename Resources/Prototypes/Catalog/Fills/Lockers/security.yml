@@ -148,30 +148,18 @@
       - id: WeaponDisabler
       - id: SoapNT # DV
       - id: HandheldCrewMonitor #funkystation
-      - id: HandheldGPSBasic
       - id: TrackingImplanter
         amount: 2
       - id: ClothingOuterHardsuitBrigmedic
       - id: OxygenTankFilled
       - id: NitrogenTankFilled
-      - id: BoxSterileMask
-      - id: ClothingMaskGasSwat
+      - id: ClothingMaskGasSecurity
       - id: ClothingHandsGlovesCombat
       - id: ClothingHandsGlovesLatex
       - id: ClothingHandsGlovesNitrile
       - id: ClothingHeadHatBeretBrigmedic
       - id: ClothingOuterCoatAMG
-      - id: ClothingUniformJumpsuitBrigmedic
-      - id: ClothingUniformJumpskirtBrigmedic
-      - id: ClothingUniformJumpskirtOfLife
       - id: MedkitCombatFilled
-      - id: MedkitOxygenFilled
-        prob: 0.3
-      - id: MedkitBruteFilled
-        prob: 0.3
-      - id: MedkitToxinFilled
-        prob: 0.3
-      - id: MedkitBurnFilled
 
 - type: entity
   id: LockerDetectiveFilled

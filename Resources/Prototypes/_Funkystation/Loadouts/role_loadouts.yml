@@ -48,3 +48,25 @@
   - Trinkets
   - ApoiadoresGroup
   - GroupSpeciesBreathTool
+
+- type: roleLoadout
+  id: JobBrigmedic
+  groups:
+  - BrigmedicHeadGroup
+  - BrigmedicJumpsuit
+  - BrigmedicBeltsGroup
+  - BrigmedicBackpack
+  - BrigmedicAMGGroup
+  - BrigmedicGlovesGroup
+  - SecurityShoes
+  - SecurityArmas # Andromeda
+  - SecurityAllAmmo # Andromeda
+  - SurvivalSecurity
+  - MedicalItensLoadout # Andromeda
+  - Trinkets
+  - SecurityStar
+  - ApoiadoresGroup # Andromeda
+  - GroupSpeciesBreathToolSecurity
+  - ShocksGroup
+  - UnderPantsGroup
+  - UnderShirtGroup
