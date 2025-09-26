@@ -106,6 +106,10 @@
           tags:
           - FoodSnack
           - BreadEmergency
+      oil:
+        whitelist:
+          tags:
+          - OilPack
       flare:
         whitelist:
           tags:
@@ -500,7 +504,7 @@
 - type: entity
   parent: BoxSurvivalSlots
   id: BoxSurvivalSlotsSilicon
-  suffix: Silicon
+  name: caixa de sobrevivência de sintéticos
   description: É uma caixa que contém equipamentos básicos para auto-reparo.
   components:
   - type: ContainerContainer
@@ -513,6 +517,11 @@
       cable: !type:ContainerSlot
   - type: ItemSlots
     slots:
+      oil:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - OilPack
       battery:
         ejectOnInteract: false
         whitelist:
@@ -538,24 +547,17 @@
         whitelist:
           tags:
           - CableCoil
-      oil:
-        ejectOnInteract: false
-        whitelist:
-          tags:
-          - OilPack
   - type: ContainerFill
     containers:
+      oil:
+      - Oilpack1
       battery:
       - BatteryDisposable
       flare:
       - Flare
-      weldingmask:
-      - ClothingMaskWelding
       welder:
       - WelderMini
       cable:
       - CableApcStack10
-      oil:
-      - Oilpack1
   - type: Sprite
     state: box_silicon
