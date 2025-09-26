@@ -1,5 +1,5 @@
 ent-LockerBooze = armário de bebidas
-    .desc = É onde o barman guarda as bebidas.
+    .desc = É onde o bartender guarda as bebidas.
 
 ent-LockerQuarterMaster = armário do intendente
     .desc = Uma unidade de armazenamento padrão da Nanotrasen.
@@ -73,7 +73,7 @@ ent-LockerSyndicatePersonal = armário do arsenal
 ent-GunSafe = cofre de armas
     .desc = Uma unidade de armazenamento padrão da Nanotrasen.
 
-ent-LockerBrigmedic = armário de médico do brig
+ent-LockerBrigmedic = armário de médico da brigada
     .desc = Uma unidade de armazenamento padrão da Nanotrasen.
 
 ent-LockerParamedic = armário de paramédico

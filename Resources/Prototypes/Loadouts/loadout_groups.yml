@@ -1248,6 +1248,7 @@
   name: loadout-group-security-shoes
   loadouts:
   - JackBoots
+  - CombatBoots
   - SecurityWinterBoots
 
 - type: loadoutGroup

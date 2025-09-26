@@ -4,6 +4,16 @@
     jumpsuit: ClothingUniformJumpskirtOfLife
 
 - type: loadout
+  id: CombatGloves
+  equipment:
+    gloves: ClothingHandsGlovesCombat
+
+- type: loadout
+  id: medicalBelt
+  equipment:
+    belt: ClothingBeltMedicalFilled
+
+- type: loadout
   id: BrigmedicJumpsuitBrigmedic
   equipment:
     jumpsuit: ClothingUniformJumpsuitBrigmedic
@@ -67,3 +77,23 @@
   name: loadout-group-bridmedic-head
   loadouts:
   - BrigmedicHead
+  - SecurityHelmet
+  - SecurityBeret
+  - SecurityHat
+  - TrooperHat
+
+- type: loadoutGroup
+  id: BrigmedicGlovesGroup
+  name: loadout-group-brigmedic-gloves
+  loadouts:
+  - LatexGloves
+  - NitrileGloves
+  - CombatGloves
+
+- type: loadoutGroup
+  id: BrigmedicBeltsGroup
+  name: loadout-group-brigmedic-belts
+  loadouts:
+  - SecurityBelt
+  - SecurityWebbing
+  - medicalBelt
