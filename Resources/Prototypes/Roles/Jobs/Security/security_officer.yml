@@ -69,8 +69,6 @@
   - Service
   - External
   - Cryogenics
-  - GenpopEnter
-  - GenpopLeave
   # begin Funkystation: give out missing genpop accesses
   - GenpopEnter
   - GenpopLeave
