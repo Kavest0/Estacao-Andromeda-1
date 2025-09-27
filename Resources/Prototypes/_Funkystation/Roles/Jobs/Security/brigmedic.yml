@@ -7,10 +7,10 @@
   requirements:
   - !type:DepartmentTimeRequirement
     department: Medical
-    time: 36000
+    time: 36000  #10 hrs
   - !type:DepartmentTimeRequirement
     department: Security
-    time: 36000
+    time: 36000  #10 hrs
   startingGear: BrigmedicGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos
@@ -20,7 +20,11 @@
   - Security
   - Brig
   - Maintenance
+  - Service
   - External
+  - Cryogenics
+  - GenpopEnter
+  - GenpopLeave
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
