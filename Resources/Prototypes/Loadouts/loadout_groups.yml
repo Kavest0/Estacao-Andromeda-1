@@ -66,6 +66,7 @@
   minLimit: 0
   maxLimit: 3
   loadouts:
+  - FigureBoxFigure
   - FlowerWreath
   - Hairflower
   - Headphones

@@ -15,6 +15,12 @@
     - Trash
   - type: SpaceGarbage
 
+- type: loadout
+  id: FigureBoxFigure
+  storage:
+    back:
+    - MysteryFigureColaboradorBox
+
 
 - type: entity
   parent: PresentRandom
