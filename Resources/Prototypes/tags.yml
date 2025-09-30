@@ -1571,6 +1571,9 @@
 - type: Tag
   id: WeldingMask
 
+- type: Tag #imp addon (why the fuck doesn't this exist upstream)
+  id: WeldingTool
+
 - type: Tag
   id: WetFloorSign
 

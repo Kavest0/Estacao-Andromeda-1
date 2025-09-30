@@ -1,0 +1,11 @@
+- type: soundCollection
+  id: RodentLaugh
+  files:
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_laugh.ogg
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_laugh02.ogg
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_laugh03.ogg
+
+- type: soundCollection
+  id: RodentSniffs
+  files:
+  - /Audio/_Andromeda/Voice/Rodentia/Rodentia_sniff.ogg

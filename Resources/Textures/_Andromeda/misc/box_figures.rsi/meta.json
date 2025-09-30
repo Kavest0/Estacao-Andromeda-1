@@ -9,6 +9,12 @@
     "states": [
         {
             "name": "pax_box"
+        },
+        {
+            "name": "fig_box"
+        },
+        {
+            "name": "fig_box_unfolded"
         }
     ]
 }

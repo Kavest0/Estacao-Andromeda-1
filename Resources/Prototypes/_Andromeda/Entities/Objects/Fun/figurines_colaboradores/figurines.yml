@@ -1,0 +1,39 @@
+- type: entity
+  parent: ToyFigurineExemploCatarse
+  id: ToyFigurineSLI
+  name: SLI-404
+  description: Há uma assinatura na base.
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/figures_colaboradores.rsi
+    state: SLI
+
+- type: entity
+  parent: ToyFigurineExemploCatarse
+  id: ToyFigurineJohn
+  name: John Moura
+  description: Há uma assinatura na base.
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/figures_colaboradores.rsi
+    state: John
+
+- type: entity
+  parent: ToyFigurineExemploCatarse
+  id: ToyFigurineYvone
+  name: Yvone Gooben
+  description: Há uma assinatura na base.
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/figures_colaboradores.rsi
+    state: Yvone
+
+- type: entity
+  parent: ToyFigurineExemploCatarse
+  id: ToyFigurineTema
+  name: Tema os Deuses
+  description: Há uma assinatura na base.
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/figures_colaboradores.rsi
+    state: Tema
