@@ -51,7 +51,7 @@
     - type: Speech
       speechVerb: Rodentia
       speechSounds: Squeak
-      allowedEmotes: ["Squeak"]
+      allowedEmotes: ["Squeak", "Sniff"]
     - type: Fixtures
       fixtures: # TODO: This needs a second fixture just for mob collisions.
         fix1:
@@ -138,6 +138,10 @@
           amount: 5
     - type: TypingIndicator
       proto: rodentia
+    - type: Tag
+      tags:
+      - RodentEmotes
+      - AnomalyHost
     - type: Vocal
       sounds:
         Male: MaleRodentia
