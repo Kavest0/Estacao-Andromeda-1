@@ -1,0 +1,17 @@
+- type: entity
+  id: PresentAdmin
+  parent: [PresentBase, BaseStorageItem]
+  suffix: Admin
+  components:
+  - type: Item
+    size: Normal
+  - type: Storage
+    grid:
+    - 0,0,6,3
+  - type: UserInterface
+    interfaces:
+      enum.StorageUiKey.Key:
+        type: StorageBoundUserInterface
+  - type: ContainerContainer
+    containers:
+      storagebase: !type:Container
