@@ -13,10 +13,10 @@ gun-Burst = rajada
 gun-FullAuto = automático
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Carregar
-gun-ballistic-cycled = Carregado
+gun-ballistic-cycle = Ejetar
+gun-ballistic-cycled = Ejetado
 gun-ballistic-cycled-empty = Vazio
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} não vai caber dentro {THE($targetEntity)}!
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} não vai caber dentro de {THE($targetEntity)}!
 gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} está vazio.
 gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} já está totalmente carregado.
 
@@ -28,21 +28,21 @@ gun-cartridge-unspent = Ele [color=lime]não está gasto[/color].
 gun-battery-examine = Há carga suficiente para [color={$color}]{$count} tiros.
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Arma não acionada
-gun-chamber-bolt = A ação está [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Ação fechada
-gun-chamber-bolt-opened = Ação aberta
-gun-chamber-bolt-close = Fechar Ação
-gun-chamber-bolt-open = Abrir Ação
+gun-chamber-bolt-ammo = Arma não engatilhada
+gun-chamber-bolt = O ferrolho está [color={$color}]{$bolt}[/color].
+gun-chamber-bolt-closed = Ferrolho fechado
+gun-chamber-bolt-opened = Ferrolho aberto
+gun-chamber-bolt-close = Fechar ferrolho
+gun-chamber-bolt-open = Abrir ferrolho
 gun-chamber-bolt-closed-state = aberto
 gun-chamber-bolt-open-state = fechado
-gun-chamber-rack = Rack (destravar)
+gun-chamber-rack = Engatilhar
 
 # MagazineAmmoProvider
 gun-magazine-examine = Há [color={$color}]{$count}[/color] tiros restantes.
 
 # RevolverAmmoProvider
-gun-revolver-empty = Revólver vazio
+gun-revolver-empty = Esvaziar Revólver
 gun-revolver-full = Revólver carregado
 gun-revolver-insert = Inserido
 gun-revolver-spin = Girar revólver
