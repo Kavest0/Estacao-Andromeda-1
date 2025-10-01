@@ -3,7 +3,7 @@ analysis-console-server-list-button = Lista de servidores
 analysis-console-extract-button = Extrair
 
 analysis-console-info-no-scanner = Nenhum analisador conectado! Conecte um usando uma multiferramenta.
-analysis-console-info-no-artifact = Nenhum artefato presente! Coloque um no bloco para visualizar informações do nó.
+analysis-console-info-no-artifact = Nenhum artefato presente! Coloque um na plataforma para visualizar informações de nós.
 analysis-console-info-ready = Sistemas operacionais. Pronto para digitalizar.
 
 analysis-console-no-node =
