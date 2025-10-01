@@ -1,4 +1,4 @@
-analysis-console-menu-title = Console de Análise Broad-Spectrum Mark 3
+analysis-console-menu-title = Console de Análise de Amplo Espectro MK3
 analysis-console-server-list-button = Lista de servidores
 analysis-console-extract-button = Extrair
 
