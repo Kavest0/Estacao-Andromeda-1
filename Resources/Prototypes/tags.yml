@@ -1581,6 +1581,9 @@
   id: WeldingTool
 
 - type: Tag
+  id: WeldingTool
+
+- type: Tag
   id: WetFloorSign
 
 - type: Tag

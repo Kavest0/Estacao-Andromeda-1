@@ -32,7 +32,7 @@ job-name-ce = engenheiro chefe
 job-name-janitor = zelador
 job-name-chaplain = capelão
 job-name-botanist = botanista
-job-name-bartender = barman
+job-name-bartender = bartender
 job-name-passenger = passageiro
 job-name-salvagespec = especialista em salvatagem
 job-name-qm = intendente de Logística
@@ -67,13 +67,13 @@ job-name-martialartist =  artista marcial
 
 # Role timers - Make these alphabetical or I cut you
 JobAtmosphericTechnician = técnico atmosférico
-JobBartender = barman
+JobBartender = bartender
 JobBorg = ciborgue
 JobBotanist = botanista
 JobCaptain = capitão
 JobCargoTechnician = técnico de Logística
 JobCentralCommandOfficial = oficial da central de comando
-JobChaplain = padre
+JobChaplain = capelão
 JobChef = chef de cozinha
 JobChemist = químico
 JobChiefEngineer = engenheiro chefe
