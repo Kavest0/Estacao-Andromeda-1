@@ -1,0 +1,46 @@
+#Written by Taydeo. Adjusted by IronDragoon
+- type: job
+  id: Brigmedic
+  name: job-name-brigmedic
+  description: job-description-brigmedic
+  playTimeTracker: JobBrigmedic
+  requirements:
+  - !type:DepartmentTimeRequirement
+    department: Medical
+    time: 36000  #10 hrs
+  - !type:DepartmentTimeRequirement
+    department: Security
+    time: 36000  #10 hrs
+  startingGear: BrigmedicGear
+  icon: "JobIconBrigmedic"
+  supervisors: job-supervisors-hos
+  canBeAntag: false
+  access:
+  - Medical
+  - Security
+  - Brig
+  - Maintenance
+  - Service
+  - External
+  - Cryogenics
+  - GenpopEnter
+  - GenpopLeave
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant ]
+  - !type:AddComponentSpecial
+    components:
+    - type: SecurityStaff
+
+- type: startingGear
+  id: BrigmedicGear
+  equipment:
+    eyes: ClothingEyesGlassesMedSec
+    id: BrigmedicPDA
+    ears: ClothingHeadsetBrigmedic
+    pocket2: BrigmedLockerTeleporter
+  storage:
+    back:
+    - Flash
+    - SecHypo # Goobstation
+    - autoInjectorCartridgeCaseSoftFilled

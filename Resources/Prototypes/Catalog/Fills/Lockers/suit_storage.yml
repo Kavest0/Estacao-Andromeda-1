@@ -220,6 +220,22 @@
   - type: AccessReader
     access: [["HeadOfSecurity"]]
 
+# brigmedic's hardsuit
+# TODO: FAZER SER SPAWNAVEL 
+- type: entity
+  id: SuitStorageBrigMedic
+  parent: SuitStorageBase
+  suffix: BrigMed
+  components:
+  - type: StorageFill
+    contents:
+        - id: OxygenTankFilled
+        - id: NitrogenTankFilled
+        - id: ClothingOuterHardsuitBrigMedic
+        - id: ClothingMaskGasSwat
+  - type: AccessReader
+    access: [["Security"]]
+
 #Warden's hardsuit
 - type: entity
   id: SuitStorageWarden
@@ -231,7 +247,7 @@
         - id: OxygenTankFilled
         - id: NitrogenTankFilled
         - id: ClothingOuterHardsuitWarden
-        - id: ClothingMaskBreath
+        - id: ClothingMaskGasSwat
   - type: AccessReader
     access: [["Armory"]]
 
