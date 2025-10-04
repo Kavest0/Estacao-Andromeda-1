@@ -140,8 +140,11 @@
       proto: rodentia
     - type: Tag
       tags:
-      - RodentEmotes
+      - CanPilot
+      - FootstepSound
+      - DoorBumpOpener
       - AnomalyHost
+      - RodentEmotes
     - type: Vocal
       sounds:
         Male: MaleRodentia
