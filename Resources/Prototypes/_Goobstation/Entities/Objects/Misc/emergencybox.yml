@@ -106,6 +106,10 @@
           tags:
           - FoodSnack
           - BreadEmergency
+      oil:
+        whitelist:
+          tags:
+          - OilPack
       flare:
         whitelist:
           tags:
@@ -150,6 +154,18 @@
         whitelist:
           tags:
           - EmergencyNitrogenTank
+      battery:
+        whitelist:
+          tags:
+          - DisposableBattery
+      welder:
+        whitelist:
+          tags:
+          - WeldingTool
+      cable:
+        whitelist:
+          tags:
+          - CableCoil
 
 
 - type: entity
@@ -484,3 +500,64 @@
       - SpaceMedipen
   - type: Label
     currentLabel: reagent-name-nitrogen
+
+- type: entity
+  parent: BoxSurvivalSlots
+  id: BoxSurvivalSlotsSilicon
+  name: caixa de sobrevivência de sintéticos
+  description: É uma caixa que contém equipamentos básicos para auto-reparo.
+  components:
+  - type: ContainerContainer
+    containers:
+      oil: !type:ContainerSlot
+      weldingmask: !type:ContainerSlot
+      battery: !type:ContainerSlot
+      flare: !type:ContainerSlot
+      welder: !type:ContainerSlot
+      cable: !type:ContainerSlot
+  - type: ItemSlots
+    slots:
+      oil:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - OilPack
+      battery:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - DisposableBattery
+      flare:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - Flare
+      weldingmask:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - WeldingMask
+      welder:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - WeldingTool
+      cable:
+        ejectOnInteract: false
+        whitelist:
+          tags:
+          - CableCoil
+  - type: ContainerFill
+    containers:
+      oil:
+      - Oilpack1
+      battery:
+      - BatteryDisposable
+      flare:
+      - Flare
+      welder:
+      - WelderMini
+      cable:
+      - CableApcStack10
+  - type: Sprite
+    state: box_silicon
