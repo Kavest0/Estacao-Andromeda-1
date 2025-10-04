@@ -1,0 +1,17 @@
+- type: emote
+  id: Sniff
+  name: chat-emote-name-sniff
+  category: Vocal
+  whitelist:
+     tags:
+     - RodentEmotes
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["cheira"]
+  chatTriggers:
+  - sniff!
+  - sniff
+  - cheira
+  - cheira!
+  - cheirando

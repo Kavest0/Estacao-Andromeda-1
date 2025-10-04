@@ -1,0 +1,48 @@
+- type: entity
+  id: MysteryColaboradorBoxTrash
+  parent: BaseItem
+  name: unfolded cardboard box
+  description: A small, unfolded cardboard toy box.
+  components:
+  - type: PhysicalComposition
+    materialComposition:
+      Cardboard: 50
+  - type: Sprite
+    sprite: _Andromeda/misc/box_figures.rsi
+    state: fig_box_unfolded
+  - type: Tag
+    tags:
+    - Trash
+  - type: SpaceGarbage
+
+- type: loadout
+  id: FigureBoxFigure
+  storage:
+    back:
+    - MysteryFigureColaboradorBox
+
+
+- type: entity
+  parent: PresentRandom
+  id: MysteryFigureColaboradorBox
+  name: Caixa de bonequinhos misteriosa - Edição Colaboradores
+  description: O que será que tem dentro?
+  components:
+  - type: Sprite
+    sprite: _Andromeda/misc/box_figures.rsi
+    layers:
+      - state: fig_box
+  - type: SpawnItemsOnUse
+    items:
+      - id: MysteryColaboradorBoxTrash
+      - id: ToyFigurineSLI
+        orGroup: SpacemenFig
+      - id: ToyFigurineJohn
+        orGroup: SpacemenFig
+      ## Admins
+      - id: ToyFigurineYvone
+        orGroup: SpacemenFig
+        prob: 0.15
+      - id: ToyFigurineTema
+        orGroup: SpacemenFig
+        prob: 0.15

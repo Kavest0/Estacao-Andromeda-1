@@ -284,9 +284,9 @@
     variation: 0.125
   sounds:
     Scream:
-      collection: MaleScreams
+      collection: RodentMaleScreams
     Laugh:
-      collection: MaleLaugh
+      collection: RodentLaugh
     Sneeze:
       collection: MaleSneezes
     Cough:
@@ -311,6 +311,8 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    Sniff:
+      collection: RodentSniffs
 
 - type: emoteSounds
   id: FemaleRodentia
@@ -318,9 +320,9 @@
     variation: 0.125
   sounds:
     Scream:
-      collection: FemaleScreams
+      collection: RodentFemaleScreams
     Laugh:
-      collection: FemaleLaugh
+      collection: RodentLaugh
     Sneeze:
       collection: FemaleSneezes
     Cough:
@@ -345,6 +347,8 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
+    Sniff:
+      collection: RodentSniffs
 
 - type: emoteSounds
   id: UnisexXelthia
