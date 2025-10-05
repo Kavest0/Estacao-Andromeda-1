@@ -41,6 +41,9 @@
     - Rodentia
     - Thaven
     - Oni
+    - Shadowkin
+    - Daengati
+    - Xelthia
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox
@@ -98,6 +101,16 @@
     - Dwarf
     - Human
     - Reptilian
+    - Vulpkanin
+    - Felinid
+    - Harpy
+    - Gingerbread
+    - Rodentia
+    - Thaven
+    - Oni
+    - Shadowkin
+    - Daengati
+    - Xelthia
 
 - type: loadoutEffectGroup
   id: OxygenBreatherMimeMoth

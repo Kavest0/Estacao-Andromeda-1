@@ -23,6 +23,9 @@
   - Glasses
   - Survival
   - Trinkets
+  - ShocksGroup
+  - UnderPantsGroup
+  - UnderShirtGroup
   - ApoiadoresGroup
   - GroupSpeciesBreathTool
 
@@ -35,6 +38,9 @@
   - InternalAffairsAgentBelt
   - Survival
   - Trinkets
+  - ShocksGroup
+  - UnderPantsGroup
+  - UnderShirtGroup
   - ApoiadoresGroup
   - GroupSpeciesBreathTool
 
@@ -46,5 +52,8 @@
   - MagistrateFlavor
   - Survival
   - Trinkets
+  - ShocksGroup
+  - UnderPantsGroup
+  - UnderShirtGroup
   - ApoiadoresGroup
   - GroupSpeciesBreathTool
