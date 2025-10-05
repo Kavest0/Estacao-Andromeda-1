@@ -15,6 +15,13 @@
 
 # Species
 - type: loadoutEffectGroup
+  id: HumanoidSilicon
+  effects:
+  - !type:SpeciesLoadoutEffect
+    species:
+    - IPC
+
+- type: loadoutEffectGroup
   id: NitrogenBreather
   effects:
   - !type:SpeciesLoadoutEffect
@@ -53,6 +60,15 @@
     - Vox
 
 # Basic
+- type: loadout
+  id: EmergencySilicon
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: HumanoidSilicon
+  storage:
+    back:
+    - BoxSurvivalSlotsSilicon
+
 - type: loadout
   id: EmergencyOxygen
   effects:

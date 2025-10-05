@@ -28,7 +28,7 @@
   - type: Sprite
     state: bso
   - type: SpawnItemsOnUse
-    items: 
+    items:
     - id: UniqueLockerBlueshieldOfficerFilled
 
 - type: entity
@@ -52,7 +52,7 @@
   - type: Sprite
     state: ntr
   - type: SpawnItemsOnUse
-    items: 
+    items:
     - id: UniqueLockerNanorepFilled
 
 - type: entity
@@ -66,3 +66,15 @@
   - type: UniqueEntityMarker
     markerName: NanorepLocker
     stationOnly: false
+
+- type: entity
+  parent: BaseLockerTeleporter
+  id: BrigmedLockerTeleporter
+  name: brigmed locker teleporter
+  description: Device that allows you to request delivery of brigmed locker.
+  components:
+  - type: Sprite
+    state: bml
+  - type: SpawnItemsOnUse
+    items:
+    - id: LockerBrigmedicFilled
