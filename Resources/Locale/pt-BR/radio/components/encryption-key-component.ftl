@@ -7,4 +7,4 @@ encryption-keys-panel-locked = Abra o painel de manutenção antes!
 
 examine-encryption-channels-prefix = Frequências disponíveis:
 examine-encryption-channel = [color={$color}]{$key} pra {$id} ({$freq})[/color]
-examine-encryption-default-channel = O canal default é [color={$color}]{$channel}[/color].
+examine-encryption-default-channel = O canal ppadrão é [color={$color}]{$channel}[/color].

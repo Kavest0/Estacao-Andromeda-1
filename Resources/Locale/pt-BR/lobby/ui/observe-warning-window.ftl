@@ -1,5 +1,7 @@
-observe-nevermind = Negar
+observe-nevermind = Deixar pra lá
 observe-confirm = Observar
-observe-warning-1 = Você tem certeza que quer observar?
-observe-warning-2 = Você não poderá jogar na rodada se decidir ser um observador.
+observe-warning-1 = Tem certeza de que deseja observar?
+observe-warning-2 = Você não poderá jogar nesta rodada se fizer isso.
 observe-warning-window-title = Aviso
+observe-as-admin = Observar como administrador
+observe-as-player = Observar como jogador

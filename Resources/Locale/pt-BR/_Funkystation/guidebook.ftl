@@ -17,5 +17,9 @@ guide-entry-alertlevel-violet = Alerta Violeta
 guide-entry-alertlevel-gamma = Alerta Gamma
 guide-entry-alertlevel-delta = Alerta Delta
 
+guide-entry-reactions = Reações
+
+guide-entry-blood-cult = Culto de Sangue
+
 guide-entry-training-manual-security = Manual de Treinamento de Segurança
 guide-entry-training-manual-command = Manual de Treinamento de Comando

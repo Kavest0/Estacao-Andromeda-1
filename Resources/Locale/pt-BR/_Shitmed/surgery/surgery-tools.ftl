@@ -1,7 +1,7 @@
 surgery-tool-turn-on = Ligue primeiro!
 surgery-tool-reload = Recarregue primeiro!
 surgery-tool-match-light = Acenda primeiro!
-surgery-tool-match-replace = Get a new match!
+surgery-tool-match-replace = Consiga outro fósforo!
 
 surgery-tool-examinable-verb-text = Ferramenta Cirúrgica
 surgery-tool-examinable-verb-message = Examine os usos desta ferramenta em cirurgias.

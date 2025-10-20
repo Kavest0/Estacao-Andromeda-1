@@ -16,8 +16,8 @@ reagent-desc-egg = Embrião de frango cozido, uma delícia.
 reagent-name-raw-egg = ovo cru
 reagent-desc-raw-egg = Usado para assar.
 
-reagent-name-sugar = sugar
-reagent-desc-sugar = Saboroso açucar do espaço!
+reagent-name-sugar = açúcar
+reagent-desc-sugar = Saboroso açúcar do espaço!
 
 reagent-name-blackpepper = pimenta preta
 reagent-desc-blackpepper = Frequentemente usado para temperar comida ou fazer pessoas espirrarem.
@@ -34,11 +34,14 @@ reagent-desc-oil-olive = Viscoso e cheiroso.
 reagent-name-oil = óleo
 reagent-desc-oil = Usado por chefs para cozinhar.
 
+reagent-name-capsaicin-oil = óleo de capsaicina
+reagent-desc-capsaicin-oil = Óleo de capsaicina é o ingrediente encontrado nas pimentas ardidas.
+
+reagent-name-frost-oil = óleo de gelo
+reagent-desc-frost-oil = Óleo de gelo é o ingrediente encontrado nas pimentas geladas, uma mutação rara.
+
 reagent-name-motor-oil = óleo de motor
 reagent-desc-motor-oil = Evita que as máquinas chiem.
-
-reagent-name-capsaicin-oil = Óleo de Capsaicina
-reagent-desc-capsaicin-oil = Capsaicin Oil é o ingrediente encontrado nas pimentas chilli.
 
 reagent-name-nausium = nausium
 reagent-desc-nausium = Enjoativo.

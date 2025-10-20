@@ -1,17 +1,17 @@
-signal-linker-component-saved = Ligação salva para {$machine} com sucesso!
-signal-linker-component-linked-port = Vinculado {$machine1}:{$port1} a {$machine2}:{$port2} com sucesso!
-signal-linker-component-unlinked-port = Desvinculado {$machine1}:{$port1} de {$machine2}:{$port2} com sucesso!
+signal-linker-component-saved = Link salvo com sucesso para {$machine}!
+signal-linker-component-linked-port = {$machine1}:{$port1} conectado com sucesso a {$machine2}:{$port2}!
+signal-linker-component-unlinked-port = {$machine1}:{$port1} desconectado com sucesso de {$machine2}:{$port2}!
 signal-linker-component-connection-refused = {$machine} recusou a conexão!
-signal-linker-component-max-connections-receiver = Conexões máximas atingidas no receptor!
-signal-linker-component-max-connections-transmitter = Conexões máximas atingidas no transmissor!
+signal-linker-component-max-connections-receiver = Número máximo de conexões atingido no receptor!
+signal-linker-component-max-connections-transmitter = Número máximo de conexões atingido no transmissor!
 
-signal-linker-component-type-mismatch = O tipo da porta não combina com o tipo da porta salva!
+signal-linker-component-type-mismatch = O tipo da porta não corresponde ao tipo da porta salva!
 
-signal-linker-component-out-of-range = Conexão está fora de alcance!
+signal-linker-component-out-of-range = Conexão fora de alcance!
 
-# Verbs
-signal-linking-verb-text-link-default = Vincular portas padrões
-signal-linking-verb-success = Conectado todas ligações padrões de {$machine}.
-signal-linking-verb-fail = Falha ao conectar todas ligações padrões de {$machine}.
-signal-linking-verb-disabled-no-transmitter = Primeiro, interaja com um transmissor, em seguida vincule portas padrões.
-signal-linking-verb-disabled-no-receiver = Primeiro, interaja com um receptor, em seguida vincule portas padrões.
+# Verbos
+signal-linking-verb-text-link-default = Conectar portas padrão
+signal-linking-verb-success = Todas as conexões padrão de {$machine} foram estabelecidas.
+signal-linking-verb-fail = Falha ao conectar todas as portas padrão de {$machine}.
+signal-linking-verb-disabled-no-transmitter = Primeiro interaja com um transmissor, depois conecte as portas padrão.
+signal-linking-verb-disabled-no-receiver = Primeiro interaja com um receptor, depois conecte as portas padrão.

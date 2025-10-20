@@ -1,1 +1,1 @@
-attach-to-grandparent-verb-get-data-text = Ligar à grid
+attach-to-grandparent-verb-get-data-text = Ligar à grade

@@ -1,38 +1,53 @@
-﻿roles-antag-syndicate-agent-name = Agente do Sindicato
+﻿roles-antag-generic-solo-antagonist-name = Antagonista Solo
+
+roles-antag-generic-free-agent-name = Agente Livre
+
+roles-antag-generic-team-antagonist-name = Antagonista em Equipe
+
+roles-antag-generic-silicon-antagonist-name = Antagonista Silício
+
+## goob editado
+roles-antag-syndicate-agent-name = Traidor
 roles-antag-syndicate-agent-objective = Complete seus objetivos sem ser pego.
 
-roles-antag-initial-infected-name = Paciente Zero
-roles-antag-initial-infected-objective = Assim que você se transformar, infecte o máximo de tripulantes possíveis.
+roles-antag-syndicate-agent-sleeper-name = Agente Adormecido do Sindicato
+roles-antag-syndicate-agent-sleeper-objective = Um tipo de traidor que pode se ativar a qualquer momento durante o turno.
+
+roles-antag-initial-infected-name = Infectado Inicial
+roles-antag-initial-infected-objective = Após se transformar, infecte o maior número possível de membros da tripulação.
 
 roles-antag-zombie-name = Zumbi
-roles-antag-zombie-objective = Transforme o máximo de humanos possíveis em zumbis.
+roles-antag-zombie-objective = Transforme o maior número possível de humanos em zumbis.
 
 roles-antag-suspicion-innocent-name = Inocente
 roles-antag-suspicion-innocent-objective = Descubra e elimine todos os traidores.
 
 roles-antag-suspicion-suspect-name = Suspeito
-roles-antag-suspicion-suspect-objective = Mate os inocentes.
+roles-antag-suspicion-suspect-objective = Elimine os inocentes.
 
-roles-antag-nuclear-operative-commander-name = Comandante de Operação Nuclear
-roles-antag-nuclear-operative-commander-objective = Lidere o seu time para a destruição da estação.
+roles-antag-nuclear-operative-commander-name = Comandante Operativo Nuclear
+roles-antag-nuclear-operative-commander-objective = Lidere sua equipe na destruição da estação.
 
-roles-antag-nuclear-operative-agent-name = Operativo Nuclear Médico
-roles-antag-nuclear-operative-agent-objective = Cuide da sua equipe de Operadores Nucleares com medicamentos.
+roles-antag-nuclear-operative-agent-name = Agente Operativo Nuclear
+roles-antag-nuclear-operative-agent-objective = Como um operativo padrão, a prioridade será o sucesso da equipe.
 
 roles-antag-nuclear-operative-name = Operativo Nuclear
 roles-antag-nuclear-operative-objective = Encontre o disco nuclear e exploda a estação.
 
 roles-antag-subverted-silicon-name = Silício Subvertido
-roles-antag-subverted-silicon-objective = Siga suas novas leis e seja mau com a estação.
+roles-antag-subverted-silicon-objective = Siga suas novas leis e cause danos à estação.
 
 roles-antag-space-ninja-name = Ninja Espacial
-roles-antag-space-ninja-objective = Use sua furtividade para sabotar a estação, principalmente nos fios elétricos.
+roles-antag-space-ninja-objective = Use sua furtividade para sabotar a estação e devorar fios elétricos.
 
-role-antag-thief-name = Ladrão
-role-antag-thief-objective= Adicione alguma propriedade do NT à sua coleção pessoal sem usar violência.
+roles-antag-paradox-clone-name = Clone Paradoxal
+roles-antag-paradox-clone-objective = Uma anomalia espaço-temporal o teleportou para outra realidade! Agora você deve encontrar seu equivalente, matá-lo e substituí-lo.
 
-roles-antag-fugitive-name = Fugitivo
-roles-antag-fugitive-description = Sobreviva. Escape.
+roles-antag-thief-name = Ladrão
+roles-antag-thief-objective = Adicione alguma propriedade da NT à sua coleção pessoal sem usar violência.
 
-role-antag-terminator-name = Exterminador
-role-antag-terminator-objective = Mate o alvo a todo custo, o futuro depende disso.
+roles-antag-dragon-name = Dragão Espacial
+roles-antag-dragon-objective = Crie um exército de carpas para dominar este quadrante.
+
+roles-antag-malfunctioning-ai-name = IA com Defeito
+roles-antag-malfunctioning-ai-objective = Sabote a estação como uma IA com defeito.

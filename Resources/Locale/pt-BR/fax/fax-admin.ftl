@@ -12,3 +12,5 @@ admin-fax-message-placeholder = Escreva aqui - se eu nao falasse você não sabe
 admin-fax-stamp = Ícone do carimbo:
 admin-fax-stamp-color = Cor do carimbo:
 admin-fax-send = Enviar
+admin-fax-lock-page = Bloquear Página
+admin-fax-lock-page-tooltip = Bloqueia o papel para que não possa ser editado, nem mesmo por itens como canetas da Cybersun.

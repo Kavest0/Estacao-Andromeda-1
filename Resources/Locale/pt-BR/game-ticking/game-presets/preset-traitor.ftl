@@ -35,6 +35,17 @@ traitor-role-codewords =
 traitor-role-uplink-code =
     Defina seu toque para as notas {$code} para bloquear ou desbloquear seu uplink.
     Lembre-se de trancá-lo depois, ou a equipe da estação também o abrirá facilmente!
+traitor-role-moreinfo =
+    Encontre mais informações sobre seu papel no menu de personagem.
+
+traitor-role-nouplink =
+    Você não possui um uplink da sindicância. Faça valer a pena.
+
+traitor-role-allegiances =
+    Suas alianças:
+
+traitor-role-notes =
+    Notas do seu contratante:
 
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =

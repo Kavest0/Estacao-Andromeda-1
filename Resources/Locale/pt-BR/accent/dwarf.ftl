@@ -330,41 +330,101 @@ accent-dwarf-words-replace-109 = achá
 accent-dwarf-words-110 = pensando
 accent-dwarf-words-replace-110 = achano
 
-accent-dwarf-words-111 = vila
+accent-dwarf-words-111 = vilarejo
 accent-dwarf-words-replace-111 = vilinha
 
 accent-dwarf-words-112 = hamster
-accent-dwarf-words-replace-112 = bichinho
+accent-dwarf-words-replace-112 = roedorzinho
 
-accent-dwarf-words-113 = nukie
-accent-dwarf-words-replace-113 = vermelhinho
+accent-dwarf-words-113 = agente nuclear
+accent-dwarf-words-replace-113 = vermelhudo
 
-accent-dwarf-words-114 = agente nuclear
-accent-dwarf-words-replace-114 = vermelhinho
+accent-dwarf-words-114 = operador nuclear
+accent-dwarf-words-replace-114 = vermelhudo
 
-accent-dwarf-words-115 = operador nuclear
-accent-dwarf-words-replace-115 = vermelhinho
+accent-dwarf-words-115 = operativo nuclear
+accent-dwarf-words-replace-115 = vermelhudo
 
 accent-dwarf-words-116 = agente nuclear
-accent-dwarf-words-replace-116 = vermelhinho
-
-accent-dwarf-words-117 = antagonista
-accent-dwarf-words-replace-117 = malvado
-
-accent-dwarf-words-118 = sindicato
-accent-dwarf-words-replace-118 = malvado
-
-accent-dwarf-words-119 = syndi
-accent-dwarf-words-replace-119 = malvado
-
-accent-dwarf-words-120 = syndie
-accent-dwarf-words-replace-120 = malvado
+accent-dwarf-words-replace-116 = vermelhudo
 
 accent-dwarf-words-121 = mais
-accent-dwarf-words-replace-121 = mais
+accent-dwarf-words-replace-121 = maisinho
 
 accent-dwarf-words-122 = além disso
-accent-dwarf-words-replace-122 = mais ainda
+accent-dwarf-words-replace-122 = e mais ainda
 
 accent-dwarf-words-123 = sobre
-accent-dwarf-words-replace-123 = sôbre
+accent-dwarf-words-replace-123 = por cima
+
+accent-dwarf-words-125 = humano
+accent-dwarf-words-replace-125 = carne lisa
+
+accent-dwarf-words-126 = anão
+accent-dwarf-words-replace-126 = baixote
+
+accent-dwarf-words-127 = gosma
+accent-dwarf-words-replace-127 = meleca
+
+accent-dwarf-words-128 = rato
+accent-dwarf-words-replace-128 = roedor
+
+accent-dwarf-words-129 = aracnídeo
+accent-dwarf-words-replace-129 = bicho de perna
+
+accent-dwarf-words-130 = aranha
+accent-dwarf-words-replace-130 = fiadeira
+
+accent-dwarf-words-131 = não é
+accent-dwarf-words-replace-131 = num é
+
+accent-dwarf-words-132 = não são
+accent-dwarf-words-replace-132 = num são
+
+accent-dwarf-words-133 = não tá
+accent-dwarf-words-replace-133 = num tá
+
+accent-dwarf-words-134 = naoé
+accent-dwarf-words-replace-134 = numé
+
+accent-dwarf-words-135 = naosão
+accent-dwarf-words-replace-135 = numsão
+
+accent-dwarf-words-136 = naotá
+accent-dwarf-words-replace-136 = numtá
+
+accent-dwarf-words-137 = zumbi
+accent-dwarf-words-replace-137 = fedido
+
+accent-dwarf-words-138 = zumb
+accent-dwarf-words-replace-138 = fedido
+
+accent-dwarf-words-139 = palhaço
+accent-dwarf-words-replace-139 = bufão
+
+accent-dwarf-words-140 = palhaço esquisito
+accent-dwarf-words-replace-140 = esquisitão
+
+accent-dwarf-words-141 = carpa
+accent-dwarf-words-replace-141 = nadador
+
+accent-dwarf-words-142 = esmagador
+accent-dwarf-words-replace-142 = quebrador
+
+accent-dwarf-words-143 = covarde
+accent-dwarf-words-replace-143 = tremedeira
+
+accent-dwarf-words-144 = idiota
+accent-dwarf-words-replace-144 = pateta
+
+accent-dwarf-words-145 = burro
+accent-dwarf-words-replace-145 = cabeçudo
+
+accent-dwarf-words-146 = oficial
+accent-dwarf-words-replace-146 = guarda
+
+accent-dwarf-words-147 = segurança
+accent-dwarf-words-replace-147 = guarda
+
+accent-dwarf-words-148 = um
+accent-dwarf-words-replace-148 = umzinho

@@ -1,2 +1,5 @@
-administration-ui-round-tab-restart-round-now = Recomeçar AGORA
+administration-ui-round-tab-start-round = Iniciar Rodada
+administration-ui-round-tab-end-round = Encerrar Rodada
+administration-ui-round-tab-restart-round = Reiniciar Rodada
+administration-ui-round-tab-restart-round-now = Reiniciar AGORA
 

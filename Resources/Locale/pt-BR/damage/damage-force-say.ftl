@@ -10,3 +10,8 @@ damage-force-say-6 = URG!
 damage-force-say-7 = HRNK!
 
 damage-force-say-sleep = zzz...
+damage-force-say-numb-1 = ai-
+damage-force-say-numb-2 = ui-
+damage-force-say-numb-3 = uff-
+damage-force-say-numb-4 = ah-
+damage-force-say-numb-5 = argh-

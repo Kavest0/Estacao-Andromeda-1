@@ -1,3 +1,5 @@
-comp-paper-label-has-label = Há uma etiqueta colada, é possível ler:
-comp-paper-label-has-label-blank = Há uma etiqueta colada porém ela está em branco.
-comp-paper-label-has-label-cant-read = É possível ver uma etiqueta colada, porém não dá pra ler dessa distância.
+comp-paper-label-has-label = Há uma etiqueta anexada, ela diz:
+comp-paper-label-has-label-blank = Há uma etiqueta anexada, mas está em branco.
+comp-paper-label-has-label-cant-read = Há uma etiqueta anexada, mas você não consegue lê-la desta distância.
+comp-paper-label-insert = Anexar etiqueta
+comp-paper-label-eject = Remover etiqueta

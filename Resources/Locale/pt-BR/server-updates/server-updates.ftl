@@ -1,2 +1,3 @@
-server-updates-received = Uma atualização foi adicionada, o servidor vai reiniciar e atualizar automaticamente no fim da rodada.
-server-updates-shutdown = O servidor está atualizando e reiniciará automaticamente.
+server-updates-received = Atualização recebida, o servidor será reiniciado automaticamente ao final desta rodada.
+server-updates-shutdown = O servidor está sendo desligado para atualização e será reiniciado automaticamente.
+server-updates-shutdown-uptime = O servidor está sendo desligado para limpeza periódica e será reiniciado automaticamente.

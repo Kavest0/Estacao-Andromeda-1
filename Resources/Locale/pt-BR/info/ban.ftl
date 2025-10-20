@@ -78,7 +78,10 @@ ban-panel-ip-hwid-tooltip = Deixe o vazio e marque a caixa de seleção abaixo p
 ban-panel-severity = Gravidade:
 ban-panel-erase = Apagar mensagens de bate-papo e o jogador da rodada
 
-# Ban string
-server-ban-string = {$admin} criou um ban de servidor de gravidade {$severity} que expira em {$expires} para [{$name}, {$ip}, {$hwid}], com razão: {$reason}
-server-ban-string-no-pii = {$admin} criou um ban de servidor de gravidade {$severity} que expira em {$expires} para {$name} com razão: {$reason}
+# Texto de banimento
+server-ban-string = {$admin} criou um banimento de servidor com severidade {$severity} que expira em {$expires} para [{$name}, {$ip}, {$hwid}], com o motivo: {$reason}
+server-ban-string-no-pii = {$admin} criou um banimento de servidor com severidade {$severity} que expira em {$expires} para {$name}, com o motivo: {$reason}
 server-ban-string-never = nunca
+
+# Expulsão ao ser banido
+ban-kick-reason = Você foi banido

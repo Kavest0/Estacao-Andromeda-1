@@ -31,3 +31,12 @@ hud-chatbox-channel-Server = Servidor
 hud-chatbox-channel-Visual = Visual
 hud-chatbox-channel-Damage = Dano
 hud-chatbox-channel-Unspecified = Não especificado
+
+hud-chatbox-highlights = Destaques:
+hud-chatbox-highlights-button = Enviar
+hud-chatbox-highlights-tooltip = As palavras devem ser separadas por quebras de linha.
+                                 Se estiverem entre aspas " ", serão destacadas
+                                 apenas se separadas por espaços ou pontuação.
+hud-chatbox-highlights-placeholder = McHands
+                                     "Juiz"
+                                     Médico

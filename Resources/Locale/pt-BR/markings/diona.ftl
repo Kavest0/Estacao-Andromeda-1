@@ -79,5 +79,11 @@ marking-DionaVinelHead = Vinhas Longas de Diona (Vinhas)
 marking-DionaVinesHead-vines = Vinhas Curtas de Diona (Vinhas)
 marking-DionaVinesHead = Vinhas Curtas de Diona (Vinhas)
 
-marking-DionaWildflowerHead-wildflower = Flores Selvagens de Diona (Flores)
-marking-DionaWildflowerHead = Flores Selvagens de Diona (Flores)
+marking-DionaVinesHead-vines = Vinhas Curtas de Diona (Vinhas)
+marking-DionaVinesHead = Vinhas Curtas de Diona (Vinhas)
+
+marking-DionaWildflowerHead-wildflower = Flores Silvestres de Diona (Flores)
+marking-DionaWildflowerHead = Flores Silvestres de Diona (Flores)
+
+marking-DionaVineOverlay-overlay = Vinhas Corporais de Diona
+marking-DionaVineOverlay = Vinhas Corporais de Diona

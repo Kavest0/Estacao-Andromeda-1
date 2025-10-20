@@ -1,12 +1,12 @@
 cargo-gifts-event-announcement = Parabéns! { $sender } decidiu enviar { $description } para a estação { $dest }. Procure-o em sua próxima remessa de carga.
 cargo-gift-default-description = Um pacote de presentes
 cargo-gift-default-sender = NanoTrasen
-cargo-gift-default-dest = Departamento de Carga.
+cargo-gift-default-dest = Departamento de Logística.
 
 cargo-gift-dest-bar = bar
 cargo-gift-dest-eng = Departamento de Engenharia
-cargo-gift-dest-supp = Departamento de Carga
-cargo-gift-dest-janitor = Departamento de Serviço
+cargo-gift-dest-supp = Departamento de Logística
+cargo-gift-dest-janitor = Departamento de Serviço Civil
 cargo-gift-dest-med = Departamento Médico
 cargo-gift-dest-sec = Departamento de Segurança
 

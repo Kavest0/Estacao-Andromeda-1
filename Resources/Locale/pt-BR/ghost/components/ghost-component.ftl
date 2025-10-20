@@ -1,3 +1,5 @@
-ghost-component-on-examine-death-time-info-minutes = {$minutes} Minutos atrás
-ghost-component-on-examine-death-time-info-seconds = {$seconds} Segundos atrás
+ghost-component-on-examine-death-time-info-minutes = há {$minutes} minutos
+ghost-component-on-examine-death-time-info-seconds = há {$seconds} segundos
 ghost-component-on-examine-message = Morreu [color=yellow]{$timeOfDeath}[/color].
+
+ghost-component-boo-action-failed = Apesar dos seus melhores esforços, nada assustador acontece.

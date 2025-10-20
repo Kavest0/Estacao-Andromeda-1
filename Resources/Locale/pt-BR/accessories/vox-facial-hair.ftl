@@ -1,5 +1,9 @@
-accessory-VoxFacialHairColonel = Coronel Vox
-accessory-VoxFacialHairFu = Quill Fu
-accessory-VoxFacialHairNeck = Pescoço Quill
-accessory-VoxFacialHairBeard = Barba Quill
-accessory-VoxFacialHairRuffBeard = Barba Ruff
+marking-VoxFacialHairBeard = Barba Vox (Penachos)
+marking-VoxFacialHairColonel = Bigode Vox (Coronel)
+marking-VoxFacialHairFu = Bigode Vox (Fu de Penacho)
+marking-VoxFacialHairNeck = Barba Vox (Penachos no Pescoço)
+marking-VoxFacialHairMane = Barba Vox (Juba)
+marking-VoxFacialHairManeSmall = Barba Vox (Jubinha)
+marking-VoxFacialHairTufts = Costeletas Vox (Tufos)
+
+accessory-VoxFacialHairRuffBeard = Barba Vox (Ruff)

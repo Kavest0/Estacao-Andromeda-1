@@ -8,7 +8,7 @@ character-records-insurance-provider-interstellarcorp = Interstellar Corp.
 # insurance types
 character-records-insurance-type-none = Nenhum
 character-records-insurance-type-basic = Básico
-character-records-insurance-type-essentials = Essencial
+character-records-insurance-type-essentials = Essenciais
 character-records-insurance-type-premium = Premium
 character-records-insurance-type-centralcommand = O melhor da Central de Comando
 

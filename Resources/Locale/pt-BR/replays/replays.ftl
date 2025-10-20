@@ -1,43 +1,55 @@
-# Loading Screen
+# Tela de Carregamento
 
 replay-loading = Carregando ({$cur}/{$total})
 replay-loading-reading = Lendo Arquivos
 replay-loading-processing = Processando Arquivos
-replay-loading-spawning = Espanando Entidades
+replay-loading-spawning = Gerando Entidades
 replay-loading-initializing = Inicializando Entidades
-replay-loading-starting= Começando Entities
-replay-loading-failed = Falha ao carregar o replay:
+replay-loading-starting = Iniciando Entidades
+replay-loading-failed = Falha ao carregar replay. Erro:
                         {$reason}
-replay-loading-retry = Tente carregar com mais tolerância a exceções - _pode causar bugs_!
+replay-loading-retry = Tentar carregar com mais tolerância a exceções – PODE CAUSAR BUGS!
+replay-loading-cancel = Cancelar
 
-# Main Menu
+# Menu Principal
+
 replay-menu-subtext = Cliente de Replay
-replay-menu-load = Carrega Replay Selecionado
-replay-menu-select = Seleciona um Replay
-replay-menu-open = Abre Pasta de Replays
-replay-menu-none = Não foram encontrados replays.
+replay-menu-load = Carregar Replay Selecionado
+replay-menu-select = Selecionar um Replay
+replay-menu-open = Abrir Pasta de Replays
+replay-menu-none = Nenhum replay encontrado.
 
-# Main Menu Info Box
-replay-info-title = Informação do Replay
+# Caixa de Informações do Menu Principal
+
+replay-info-title = Informações do Replay
 replay-info-none-selected = Nenhum replay selecionado
 replay-info-invalid = [color=red]Replay inválido selecionado[/color]
 replay-info-info = {"["}color=gray]Selecionado:[/color]  {$name} ({$file})
-                   {"["}color=gray]Tempo:[/color]   {$time}
-                   {"["}color=gray]ID do Round:[/color]   {$roundId}
+                   {"["}color=gray]Horário:[/color]   {$time}
+                   {"["}color=gray]ID da Rodada:[/color]   {$roundId}
                    {"["}color=gray]Duração:[/color]   {$duration}
                    {"["}color=gray]ForkId:[/color]   {$forkId}
                    {"["}color=gray]Versão:[/color]   {$version}
-                   {"["}color=gray]Engine:[/color]   {$engVersion}
+                   {"["}color=gray]Motor:[/color]   {$engVersion}
                    {"["}color=gray]Hash de Tipo:[/color]   {$hash}
-                   {"["}color=gray]Comp Hash:[/color]   {$compHash}
+                   {"["}color=gray]Hash de Compilação:[/color]   {$compHash}
 
-# Replay selection window
+# Janela de Seleção de Replay
+
 replay-menu-select-title = Selecionar Replay
 
-# Replay related verbs
-replay-verb-spectate = Observar
+# Verbos Relacionados a Replay
 
-# command
-cmd-replay-spectate-help = replay_spectate [optional entity]
-cmd-replay-spectate-desc = Anexa ou desapega o jogador local para uma determinada entidade uid.
+replay-verb-spectate = Espectar
+
+# Comandos
+
+cmd-replay-spectate-help = replay_spectate [entidade opcional]
+cmd-replay-spectate-desc = Conecta ou desconecta o jogador local a uma entidade UID específica.
 cmd-replay-spectate-hint = EntityUid Opcional
+
+cmd-replay-toggleui-desc = Alterna a interface de controle de replay.
+
+cmd-replay-spectate-hint = EntityUid opcional
+
+cmd-replay-toggleui-desc = Alterna a interface de controle do replay.

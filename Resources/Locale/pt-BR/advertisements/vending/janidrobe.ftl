@@ -1,3 +1,5 @@
-advertisement-janidrobe-1 = Venha pegar suas roupas de zelador, agora patrocinados por todos os zeladores reptilianos!
-advertisement-janidrobe-2 = Aqui para mantê-lo limpo enquanto limpa coisas não limpas!
-advertisement-janidrobe-3 = Elegantemente amarelo!
+advertisement-janidrobe-1 = Venha garantir seu uniforme de zelador, agora aprovado por zeladores lagartos em todo lugar!
+advertisement-janidrobe-2 = Aqui pra manter você limpo enquanto limpa o que não está!
+advertisement-janidrobe-3 = Amarelo com estilo!
+advertisement-janidrobe-4 = Dê um brilho na sua aparência com o JaniDrobe!
+advertisement-janidrobe-5 = Brilhe como um chão recém-polido!

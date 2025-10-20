@@ -1,5 +1,5 @@
 moods-ui-menu-title = Seus Humores
-moods-ui-shared-mood = Compartilhado
+moods-ui-shared-mood = Compartilhados
 thaven-moods-update-notify = Você sente uma mudança em seus humores!
 
 thaven-moods-ui-verb = Editar Humores

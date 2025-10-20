@@ -39,3 +39,9 @@ reagent-desc-norepinephric-acid = Um produto químico liso que bloqueia os recep
 
 reagent-name-tear-gas = gás lacrimogêneo
 reagent-desc-tear-gas = Um produto químico que causa irritação severa e choro, comumente usado no controle de distúrbios.
+
+reagent-name-happiness = felicidade
+reagent-desc-happiness = Enche você de entorpecimento extático e causa dano cerebral leve. Altamente viciante. Em caso de overdose, provoca mudanças repentinas de humor.
+
+reagent-name-nitrosyl-plasmide = plasmídeo nitrosílico
+reagent-desc-nitrosyl-plasmide = Estimulante poderoso que pode prevenir sonolência, atordoamentos e quedas.

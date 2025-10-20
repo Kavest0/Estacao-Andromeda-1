@@ -1,35 +1,35 @@
-tool-quality-anchoring-name = Ancorar
-tool-quality-anchoring-tool-name = Chave Inglesa
+tool-quality-anchoring-name = Fixação
+tool-quality-anchoring-tool-name = Chave inglesa
 
-tool-quality-prying-name = Forçar
+tool-quality-prying-name = Alavancagem
 tool-quality-prying-tool-name = Pé de cabra
 
-tool-quality-screwing-name = Aparafusar
+tool-quality-screwing-name = Parafusamento
 tool-quality-screwing-tool-name = Chave de fenda
 
-tool-quality-cutting-name = Cortar
-tool-quality-cutting-tool-name = Alicate de Fios
+tool-quality-cutting-name = Corte
+tool-quality-cutting-tool-name = Cortador de fios
 
-tool-quality-welding-name = Soldar
-tool-quality-welding-tool-name = Soldador
+tool-quality-welding-name = Soldagem
+tool-quality-welding-tool-name = Maçarico
 
-tool-quality-pulsing-name = Pulsar
+tool-quality-pulsing-name = Pulso
 tool-quality-pulsing-tool-name = Multitool
 
-tool-quality-slicing-name = Cortar
+tool-quality-slicing-name = Fatiamento
 tool-quality-slicing-tool-name = Faca
 
-tool-quality-sawing-name = Serrar
+tool-quality-sawing-name = Serragem
 tool-quality-sawing-tool-name = Serra
 
-tool-quality-honking-name = Honking
-tool-quality-honking-tool-name = Bike Horn
+tool-quality-honking-name = Buzinagem
+tool-quality-honking-tool-name = Buzina de bicicleta
 
-tool-quality-woodcutting-name = Cortador de Madeira
-tool-quality-woodcutting-tool-name = Machadinha
+tool-quality-woodcutting-name = Corte de Madeira
+tool-quality-woodcutting-tool-name = Machado
 
-tool-quality-rolling-name = Rolling
-tool-quality-rolling-tool-name = Rolling Pin
+tool-quality-rolling-name = Laminação
+tool-quality-rolling-tool-name = Rolo de massa
 
 tool-quality-digging-name = Escavação
 tool-quality-digging-tool-name = Pá

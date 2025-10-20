@@ -1,16 +1,17 @@
-## General stuff
+## Geral
 
-ui-options-title = Opções de jogo
+ui-options-title = Opções do Jogo
+ui-options-tab-accessibility = Acessibilidade
+ui-options-tab-admin = Administração
 ui-options-tab-graphics = Gráficos
 ui-options-tab-controls = Controles
-ui-options-tab-audio = Audio
+ui-options-tab-audio = Áudio
 ui-options-tab-network = Rede
 ui-options-tab-misc = Geral
-
-ui-options-apply = Aplicar
-ui-options-reset-all = Redefinir
-ui-options-default = Padrão
-
+ui-options-apply = Salvar e aplicar
+ui-options-reset-all = Redefinir alterações
+ui-options-default = Restaurar padrões
+ui-options-value-percent = { TOSTRING($value, "P0") }
 # Misc/General menu
 
 ui-options-discordrich = Enable Discord Rich Presence
@@ -40,59 +41,67 @@ ui-options-admin-sounds = Tocar Som de Admin
 ui-options-volume-label = Volume
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
-## Graphics menu
+## Menu de Gráficos
 
-ui-options-show-held-item = Mostrar item segurado ao lado do cursor
-ui-options-show-combat-mode-indicators = Mostrar indicadores de combate com o cursor
-ui-options-show-offer-mode-indicators = Mostrar indicadores de modo de oferta com o cursor
+ui-options-display-label = Exibição
+ui-options-quality-label = Qualidade
+ui-options-misc-label = Diversos
+ui-options-interface-label = Interface
+
+## Estação Estilosa
+ui-options-crayon-overlay-transparency = Transparência da sobreposição de giz de cera
+
+ui-options-auto-fill-highlights = Preencher automaticamente os destaques com as informações do personagem
+ui-options-highlights-color = Cor dos destaques:
+ui-options-highlights-color-example = Este é um texto destacado!
+ui-options-show-held-item = Mostrar item segurado próximo ao cursor
+ui-options-show-combat-mode-indicators = Mostrar indicadores de modo de combate com o cursor
 ui-options-opaque-storage-window = Janela de armazenamento opaca
-ui-options-show-ooc-patron-color = Mostrar cor OOC dos Patronos
-ui-options-show-looc-on-head = Mostrar bate-papo LOOC acima da cabeça dos personagens
+ui-options-show-ooc-patron-color = Mostrar cor de Patreon no OOC
+ui-options-show-looc-on-head = Mostrar chat LOOC acima da cabeça dos personagens
 ui-options-fancy-speech = Mostrar nomes em balões de fala
 ui-options-fancy-name-background = Adicionar fundo aos nomes nos balões de fala
-ui-options-enable-color-name = Adiciona cores aos nomes dos personagens
-ui-options-colorblind-friendly = Modo amigável a daltônicos
-ui-options-no-filters = Desabilitar filtros de visão de espécie
-ui-options-reduced-motion = Reduzir movimento dos efeitos visuais
-ui-options-chat-window-opacity = Opacidade da janela de chat
-ui-options-chat-window-opacity-percent = { TOSTRING($opacity, "P0") }
-ui-options-screen-shake-intensity = Intensidade de tremida de tela
-ui-options-screen-shake-percent = { TOSTRING($intensity, "P0") }
 ui-options-vsync = VSync
 ui-options-fullscreen = Tela cheia
-ui-options-lighting-label = Qualidade de Iluminação:
+ui-options-lighting-label = Qualidade da iluminação:
 ui-options-lighting-very-low = Muito baixa
 ui-options-lighting-low = Baixa
 ui-options-lighting-medium = Média
 ui-options-lighting-high = Alta
-ui-options-scale-label = Escala da UI:
-ui-options-scale-auto = Automático ({ TOSTRING($scale, "P0") })
+ui-options-scale-label = Escala da interface:
+ui-options-scale-auto = Automática ({ TOSTRING($scale, "P0") })
 ui-options-scale-75 = 75%
 ui-options-scale-100 = 100%
 ui-options-scale-125 = 125%
 ui-options-scale-150 = 150%
 ui-options-scale-175 = 175%
 ui-options-scale-200 = 200%
-ui-options-hud-theme = Tema da HUD:
+ui-options-hud-theme = Tema do HUD:
 ui-options-hud-theme-default = Padrão
 ui-options-hud-theme-plasmafire = Plasmafire
 ui-options-hud-theme-slimecore = Slimecore
-ui-options-hud-theme-clockwork = Clockwork
+ui-options-hud-theme-clockwork = Mecânico
 ui-options-hud-theme-retro = Retrô
 ui-options-hud-theme-minimalist = Minimalista
-ui-options-hud-theme-ashen = Ashen
-ui-options-vp-stretch = Esticar vista para caber na janela do jogo
-ui-options-vp-scale = Escala fixa do viewport: x{ $scale }
-ui-options-vp-integer-scaling = Dimensionamento inteiro (pode causar barras pretas/cortes)
-ui-options-vp-integer-scaling-tooltip = Se está opção estiver ativa, o viewport vai escalar usando um valor inteiro
-                                        em resoluções específicas. Enquanto isto resulta em texturas nítidas, isto também significa
-                                        que barras pretas aparecerão no topo ou fundo da tela ou na
-                                        parte do viewport que não é visível.
-ui-options-vp-low-res = Viewport de Baixa Resolução
-ui-options-parallax-low-quality = Parallax de Baixa Qualidade (fundo)
-ui-options-fps-counter = Mostrar Contador de FPS
-ui-options-vp-width = Viewport width: { $width }
-ui-options-hud-layout = HUD layout:
+ui-options-hud-theme-ashen = Pálido
+ui-options-hud-layout-default = Padrão
+ui-options-hud-layout-separated = Separado
+ui-options-vp-stretch = Esticar a área de visão para caber na janela do jogo
+ui-options-vp-scale = Escala fixa da área de visão:
+ui-options-vp-scale-value = x{ $scale }
+ui-options-vp-integer-scaling = Preferir escala inteira (pode causar barras pretas/corte)
+ui-options-vp-integer-scaling-tooltip = Se esta opção estiver ativada, a área de visão será escalada usando um valor inteiro
+                                        em resoluções específicas. Isso resulta em texturas nítidas, mas pode causar
+                                        barras pretas na parte superior/inferior da tela ou ocultar parte da área de visão.
+ui-options-vp-vertical-fit = Ajuste vertical da área de visão
+ui-options-vp-vertical-fit-tooltip = Quando ativado, a área de visão principal ignorará o eixo horizontal ao
+                                     ajustar à sua tela. Se sua tela for menor que a área de visão, isso
+                                     causará corte no eixo horizontal.
+ui-options-vp-low-res = Área de visão de baixa resolução
+ui-options-parallax-low-quality = Parallax de baixa qualidade (fundo)
+ui-options-fps-counter = Mostrar contador de FPS
+ui-options-vp-width = Largura da área de visão:
+ui-options-hud-layout = Layout do HUD:
 
 ## Controls menu
 
@@ -279,11 +288,42 @@ ui-options-net-pvs-leave-tooltip = Isso limita a taxa na qual o cliente remove e
                                        stutter ao caminhar, mas pode ocasionalmente
                                        levar a previsões erradas e outros problemas.
 
-## Toggle window console command
-cmd-options-desc = Abre o menu de opções, opcionalmente com uma certa aba selecionada.
+## Comando de console para alternar janela
+cmd-options-desc = Abre o menu de opções, opcionalmente com uma aba específica selecionada.
 cmd-options-help = Uso: options [aba]
 
-## Combat Options
+## Menu de Acessibilidade
+
+ui-options-enable-color-name = Adicionar cores aos nomes dos personagens
+ui-options-colorblind-friendly = Modo amigável para daltônicos
+ui-options-reduced-motion = Reduzir movimento dos efeitos visuais
+ui-options-chat-window-opacity = Opacidade da janela de chat
+ui-options-screen-shake-intensity = Intensidade da vibração da tela
+ui-options-speech-bubble-text-opacity = Opacidade do texto nos balões de fala
+ui-options-speech-bubble-speaker-opacity = Opacidade do nome do falante nos balões de fala
+ui-options-speech-bubble-background-opacity = Opacidade do fundo dos balões de fala
+
+## Alteração Shitmed
+ui-options-header-targeting = Mira
+
+## Menu de Administração
+
+ui-options-admin-player-panel = Lista de Jogadores do Menu Admin
+
+ui-options-admin-playerlist-separate-symbols = Mostrar símbolos separados para cada tipo de papel antagônico
+ui-options-admin-playerlist-character-color = Colorir nomes de personagens antagônicos
+ui-options-admin-playerlist-roletype-color = Colorir tipos de papel
+
+ui-options-admin-overlay-title = Sobreposição Admin
+ui-options-enable-classic-overlay = Reverter sobreposição para o modo clássico
+ui-options-enable-overlay-symbols = Adicionar símbolo de antag ao texto
+ui-options-enable-overlay-playtime = Mostrar tempo de jogo
+ui-options-enable-overlay-starting-job = Mostrar cargo inicial
+ui-options-overlay-merge-distance = Distância de agrupamento de pilhas
+ui-options-overlay-ghost-fade-distance = Alcance de desvanecimento da sobreposição de fantasmas a partir do mouse
+ui-options-overlay-ghost-hide-distance = Alcance de ocultação da sobreposição de fantasmas a partir do mouse
+
+## Opções de Combate
 ui-options-function-look-up = Mirar
-ui-options-function-auto-get-up = Se levantar automaticamente depois de cair.
+ui-options-function-auto-get-up = Levantar automaticamente após cair
 ui-options-function-hold-look-up = Segurar para mirar

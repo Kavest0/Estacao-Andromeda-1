@@ -9,3 +9,8 @@ ui-actionmenu-clear-button = Limpar
 ui-actionsui-function-lock-action-slots = (Des)bloquear arrastamento e limpar slots de ação
 ui-actionsui-function-open-abilities-menu = Abrir menu de ação
 
+ui-actionmenu-enabled = Ativado
+ui-actionmenu-item = Item
+ui-actionmenu-innate = Inato
+ui-actionmenu-instant = Instantâneo
+ui-actionmenu-targeted = Direcionado

@@ -10,3 +10,4 @@ id-card-console-window-job-selection-label = Predefinições de trabalho (config
 access-id-card-console-component-no-hands-error = Você não tem mãos.
 id-card-console-privileged-id = ID Privilegiado
 id-card-console-target-id = ID Designado
+id-card-console-damaged = Integridade estrutural comprometida, ejetando conteúdos.

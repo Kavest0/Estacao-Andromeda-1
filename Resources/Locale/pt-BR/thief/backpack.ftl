@@ -1,63 +1,64 @@
-thief-backpack-window-title = Caixa de Ferramentas do Ladrão
+thief-backpack-window-title = kit de ladrão
 
 thief-backpack-window-description =
-    Esta caixa de ferramentas está repleta de conteúdos não especificados.
-    Agora você precisa se lembrar do que colocou nele.
-    Escolha 2 conjuntos diferentes da lista.
+    Aqui estão suas ferramentas de ofício, que se dissolverão quando você estiver pronto.
+    Escolha {$maxCount} {$maxCount ->
+        [1] conjunto
+        *[other] conjuntos
+    } diferentes da lista.
 
 thief-backpack-window-selected = Kits selecionados: ({$selectedCount}/{$maxCount})
 
-thief-backpack-window-approve-button = Aprovar
-thief-backpack-button-select = Selecione [ ]
-thief-backpack-button-deselect = Selecione [X]
+thief-backpack-window-approve-button = Confirmar
+thief-backpack-button-select = Selecionar [  ]
+thief-backpack-button-deselect = Selecionar [X]
 
 # Conjuntos
 
-thief-backpack-category-chameleon-name = Kit do Camaleão
+thief-backpack-category-chameleon-name = kit camaleão
 thief-backpack-category-chameleon-description =
-    Inclui um conjunto completo de roupas que contém
-    tecnologia camaleônica, permitindo disfarçar
-    como praticamente qualquer coisa na estação.
+    Você é todos e ninguém; um mestre do disfarce.
+    Inclui: Um conjunto completo de roupas camaleônicas,
+    um projetor camaleão e um ID de agente.
+    Disfarce-se como qualquer pessoa ou coisa.
 
-thief-backpack-category-tools-name = Kit Pegador de Urso
+thief-backpack-category-tools-name = kit arrombador
 thief-backpack-category-tools-description =
-    Um conjunto de ferramentas para desbastar portas, paredes, janelas,
-    e qualquer outra coisa que por qualquer motivo não
-    quero deixar você entrar onde você precisa ir.
-    Inclui dois C4s, uma multiferramenta, mandíbulas de vida,
-    um par de óculos de méson de soldador avançados e algumas luvas isoladas.
+    Ouviu isso? Um C4 batendo na porta deles.
+    Nenhum obstáculo pode te parar!
+    Inclui: Dois C4, um multitool, sinalizador remoto, mandíbulas da vida,
+    soldador avançado, óculos de engenharia e luvas isoladas.
 
-thief-backpack-category-chemistry-name = Kit de Química
+thief-backpack-category-chemistry-name = kit anatômico
 thief-backpack-category-chemistry-description =
-    Um conjunto para quem adora melhorar o corpo.
-    Inclui um Implantador de Armazenamento,
-    um Implantador de Misturador de DNA,
-    um conjunto de produtos químicos para um dia chuvoso,
-    e Sabonete ômega.
+    Você atingiu o auge do desempenho físico... com uma ajudinha.
+    Inclui: Implantador de liberdade, implantador misturador de DNA,
+    frasco de efedrina, seringa, agitador vazio e sabão ômega.
 
-thief-backpack-category-syndie-name = Kit Sindicato
+thief-backpack-category-syndie-name = kit da syndicate
 thief-backpack-category-syndie-description =
-    Um conjunto de itens de um agente do sindicato que você roubou
-    no passado. Inclui um cartão de identificação de agente, Emag, um pAI de sindicato,
-    e alguns estranhos cristais vermelhos.
+    Bugigangas de um passado renegado ou roubadas de um agente descuidado?
+    Você fez algumas conexões. Uísque, eco...
+    Inclui: Um Emag, Quebrador de Acesso, cigarros Interdyne, uma palavra-código da Syndicate,
+    um Bloqueador de Rádio, um isqueiro e alguns cristais vermelhos estranhos.
 
-thief-backpack-category-sleeper-name = Kit de Dorminhoco
+thief-backpack-category-sleeper-name = kit sonífero
 thief-backpack-category-sleeper-description =
-    Um conjunto para quem gosta de dormir,
-    ou para todos ao seu redor dormirem.
-    Inclui um conjunto de frascos nocturinos, um hipópeno e
-    um tanque de gás para dormir.
+    Até que fechemos os olhos para sempre, use suas prescrições ilegais
+    para manter os outros dormindo.
+    Inclui: Tanque de óxido nitroso sonolento, dois frascos de nocturina,
+    e uma hipocaneta.
 
-thief-backpack-category-communicator-name = Kit do Comunicador
+thief-backpack-category-communicator-name = kit comunicador
 thief-backpack-category-communicator-description =
-    Um kit para entusiastas da comunicação. Inclui uma chave mestra
-    para todos os canais da estação, uma caneta cybersun, um portátil
-    monitor de tripulação, máscara de voz de camaleão e muito dinheiro para negócios.
+    Dinheiro é poder, e segredos são dinheiro. Use sua lábia
+    e riqueza para subverter a estação.
+    Inclui: Chave mestra para todos os canais da estação, uma caneta CyberSun,
+    máscara de voz e 20 mil spesos dentro de uma maleta.
 
-thief-backpack-category-smuggler-name = Kit do Contrabandista
+thief-backpack-category-smuggler-name = kit contrabandista
 thief-backpack-category-smuggler-description =
-    Um kit para quem gosta de ter bolsos grandes.
-    Inclui um farol fulton, dez fultons, 3 granadas de fumaça
-    e uma caixa invisível. Você não pode se mover neles,
-    mas você pode rapidamente esconder ou carregar itens valiosos.
-    Este kit também tem uma capa do vazio legal para acompanhá-lo.
+    Todo ladrão precisa de um lugar para esconder seus bens na escuridão.
+    Não se esqueça de conectar seu fulton.
+    Inclui: Farol de Fulton, 10 fultons, implantador de fumaça,
+    uma Bolsa de Contrabandista e uma caixa invisível para esconder itens valiosos.

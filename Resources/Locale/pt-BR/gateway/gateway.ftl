@@ -10,4 +10,4 @@ gateway-close-portal = Fechar Portal
 gateway-window-ready = Pronto!
 gateway-window-ready-in = Pronto em: {$time}s
 gateway-window-already-active = Já ativo
-gateway-window-portal-closing = Portal fechando
+gateway-window-portal-closing = Portal fechando...

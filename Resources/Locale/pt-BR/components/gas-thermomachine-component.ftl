@@ -8,4 +8,4 @@ comp-gas-thermomachine-ui-status-enabled = Ligado
 
 gas-thermo-component-upgrade-heating = temperatura máxima
 gas-thermo-component-upgrade-cooling = temperatura mínima
-gas-thermo-component-upgrade-heat-capacity = capacidade de calor
+gas-thermo-component-upgrade-heat-capacity = capacidade térmica

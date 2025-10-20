@@ -10,6 +10,7 @@ generic-error = erro
 generic-invalid = inválido
 
 generic-hours = horas
+generic-minutes = minutos
 
 generic-playtime-title = Tempo de Jogo
 

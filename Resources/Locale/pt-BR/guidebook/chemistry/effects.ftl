@@ -342,11 +342,96 @@ reagent-effect-guidebook-innoculate-zombie-infection =
 reagent-effect-guidebook-reduce-rotting =
     { $chance ->
         [1] Regenera
-        *[other] regeneram
-    } {NATURALFIXED($time, 3)} {MANY("segundo", $time)} de decomposição
+        *[other] regenera
+    } {NATURALFIXED($time, 3)} {MANY("segundo", $time)} de apodrecimento
 
-reagent-effect-guidebook-missing =
+reagent-effect-guidebook-area-reaction =
     { $chance ->
         [1] Causa
         *[other] causam
-    } um efeito desconhecido, pois ninguém escreveu esse efeito ainda
+    } uma reação de fumaça ou espuma por {NATURALFIXED($duration, 3)} {MANY("segundo", $duration)}
+
+reagent-effect-guidebook-add-to-solution-reaction =
+    { $chance ->
+        [1] Causa
+        *[other] causam
+    } a adição de produtos químicos aplicados a um objeto ao seu recipiente interno de solução
+
+reagent-effect-guidebook-artifact-unlock =
+    { $chance ->
+        [1] Ajuda
+        *[other] ajudam
+    } a desbloquear um artefato alienígena.
+
+reagent-effect-guidebook-plant-attribute =
+    { $chance ->
+        [1] Ajusta
+        *[other] ajustam
+    } {$attribute} em [color={$colorName}]{$amount}[/color]
+
+reagent-effect-guidebook-plant-cryoxadone =
+    { $chance ->
+        [1] Rejuvenesce
+        *[other] rejuvenesce
+    } a planta, dependendo da idade e do tempo de crescimento
+
+reagent-effect-guidebook-plant-phalanximine =
+    { $chance ->
+        [1] Restaura
+        *[other] restauram
+    } a viabilidade de uma planta tornada inviável por mutação
+
+reagent-effect-guidebook-plant-diethylamine =
+    { $chance ->
+        [1] Aumenta
+        *[other] aumentam
+    } a longevidade e/ou saúde base da planta com 10% de chance para cada
+
+reagent-effect-guidebook-plant-robust-harvest =
+    { $chance ->
+        [1] Aumenta
+        *[other] aumentam
+    } a potência da planta em {$increase} até um máximo de {$limit}. Faz com que a planta perca suas sementes ao atingir {$seedlesstreshold}. Tentar ultrapassar {$limit} pode reduzir a colheita com 10% de chance
+
+reagent-effect-guidebook-plant-seeds-add =
+    { $chance ->
+        [1] Restaura as
+        *[other] restauram as
+    } sementes da planta
+
+reagent-effect-guidebook-plant-seeds-remove =
+    { $chance ->
+        [1] Remove as
+        *[other] removem as
+    } sementes da planta
+
+reagent-effect-guidebook-add-to-chemicals =
+    { $chance ->
+        [1] { $deltasign ->
+                [1] Adiciona
+                *[-1] Remove
+            }
+        *[other]
+            { $deltasign ->
+                [1] adicionam
+                *[-1] removem
+            }
+    } {NATURALFIXED($amount, 2)}u de {$reagent} { $deltasign ->
+        [1] à
+        *[-1] da
+    } solução
+
+reagent-effect-guidebook-adjust-ling-chemicals =
+    { $chance ->
+        [1] { $deltasign ->
+                [1] Adiciona
+                *[-1] Remove
+            }
+        *[other] { $deltasign ->
+                    [1] adicionam
+                    *[-1] removem
+                 }
+    } {NATURALFIXED($amount, 2)} unidades de produtos químicos de changeling { $deltasign ->
+        [1] ao
+        *[-1] do
+    } metabolizador

@@ -47,3 +47,4 @@ shell-argument-number-invalid = Argumento {$index} precisa ser um numero válido
 
 # Hints
 shell-argument-username-hint = <nome de usuário>
+shell-argument-username-optional-hint = [nome de usuário]

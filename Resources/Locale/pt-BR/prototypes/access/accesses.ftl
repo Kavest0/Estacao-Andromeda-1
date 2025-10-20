@@ -2,19 +2,23 @@ id-card-access-level-command = Comando
 id-card-access-level-captain = Capitão
 id-card-access-level-head-of-personnel = Chefe dos Funcionários
 id-card-access-level-cryogenics = Criogenia
+id-card-access-level-emergency-shuttle-repeal = Cancelamento da Nave de Emergência
 
 id-card-access-level-head-of-security = Chefe de Segurança
 id-card-access-level-security = Segurança
 id-card-access-level-armory = Arsenal
-id-card-access-level-brig = Brig
+id-card-access-level-brig = Prisão
 id-card-access-level-detective = Detetive
+id-card-access-level-genpop-enter = Entrada na População Geral
+id-card-access-level-genpop-leave = Saída da População Geral
 
 id-card-access-level-chief-engineer = Chefe da Engenharia
 id-card-access-level-engineering = Engenharia
 id-card-access-level-atmospherics = Atmosféricos
 
-id-card-access-level-research-director = Mistagogo
-id-card-access-level-research = Epistêmica
+id-card-access-level-research-director = Diretor de Pesquisa
+id-card-access-level-research = Pesquisa
+id-card-access-level-robotics = Robótica
 
 id-card-access-level-chief-medical-officer = Médico Chefe
 id-card-access-level-medical = Médica
@@ -40,9 +44,15 @@ id-card-access-level-maintenance = Manutenção
 id-card-access-level-external = Externo
 
 id-card-access-level-nuclear-operative = Operativo Nuclear
-id-card-access-level-syndicate-agent = Agente Sindicato
+id-card-access-level-syndicate-agent = Agente do Sindicato
 
 id-card-access-level-central-command = Comando Central
+
+id-card-access-level-wizard = Feiticeiro
+
+id-card-access-level-station-ai = Inteligência Artificial
+id-card-access-level-borg = Ciborgue
+id-card-access-level-basic-silicon = Robô
 
 id-card-access-level-orders = Pedidos
 id-card-access-level-mantis = Mantis

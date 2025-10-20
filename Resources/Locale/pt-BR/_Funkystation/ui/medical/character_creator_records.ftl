@@ -8,8 +8,8 @@ humanoid-profile-editor-cd-records-header-personal = Informações Pessoais
 humanoid-profile-editor-cd-records-general-height = Altura:
 humanoid-profile-editor-cd-records-general-weight = Peso:
 humanoid-profile-editor-cd-records-general-identifying-features = Caract. Identificadoras:
-humanoid-profile-editor-cd-records-general-work-authorization = Autorização de Trabalho?
-humanoid-profile-editor-cd-records-general-insurance = Seguro?
+humanoid-profile-editor-cd-records-general-work-authorization = Possui Autorização de Trabalho?
+humanoid-profile-editor-cd-records-general-insurance = Possui Seguro?
 humanoid-profile-editor-cd-records-general-insurance-provider = Provedor de Seguro
 humanoid-profile-editor-cd-records-general-insurance-plan = Plano de Seguro
 # informações médicas

@@ -10,3 +10,4 @@ damage-throw = arremesso
 damage-examine = Isso causa o seguinte dano:
 damage-examine-type = Isso causa o seguinte dano de {$type}:
 damage-value = - [color=red]{$amount}[/color] de [color=yellow]{$type}[/color].
+damage-none = Isso não causa dano.

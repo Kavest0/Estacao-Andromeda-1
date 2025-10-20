@@ -1,5 +1,11 @@
+# SPDX-FileCopyrightText: 2025 corresp0nd <46357632+corresp0nd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 ferynn <117872973+ferynn@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 taydeo <td12233a@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
+
 thaven-mood-possessive-of-property-name = Possessivo da Propriedade
-thaven-mood-possessive-of-property-desc = Você é extremamente possessivo em relação à sua propriedade. Recusa-se a relinquishá-la e, se ela for extraviada ou roubada, deve ser recuperada.
+thaven-mood-possessive-of-property-desc = Você é extremamente possessivo em relação à sua propriedade. Recusa-se a abrir mão dela e, se for extraviada ou roubada, deve ser recuperada a qualquer custo.
 
 thaven-mood-excessively-organized-name = Excessivamente Organizado
 thaven-mood-excessively-organized-desc = Você é obsessivamente organizado; tudo tem seu lugar e deve ser devolvido a ele.
@@ -17,10 +23,10 @@ thaven-mood-worship-silicons-name = Você Deve Adorar Silicons Como Deuses
 thaven-mood-worship-silicons-desc = A palavra deles é lei.
 
 thaven-mood-dinner-etiquette-name = Etiqueta à Mesa
-thaven-mood-dinner-etiquette-desc = A comida deve sempre ser consumida de maneira adequada - sentado à mesa, em porções, com pratos e utensílios.
+thaven-mood-dinner-etiquette-desc = A comida deve sempre ser consumida de maneira adequada — sentado à mesa, em porções, com pratos e utensílios.
 
 thaven-mood-clarity-name = Clareza é Vital
-thaven-mood-clarity-desc = Mal-entendidos são a principal causa de conflitos. Você deve ser excessivamente claro e honesto em sua fala, explicando cada detalhe minucioso, para evitar mal-entendidos.
+thaven-mood-clarity-desc = Mal-entendidos são a principal causa de conflitos. Você deve ser excessivamente claro e honesto em sua fala, explicando cada detalhe minucioso para evitar mal-entendidos.
 
 thaven-mood-hug-good-name = Abraços Grátis
 thaven-mood-hug-good-desc = É extremamente indelicado não abraçar as pessoas com frequência.
@@ -36,6 +42,9 @@ thaven-mood-only-speak-to-command-desc = Os problemas que você encontra são mu
 
 thaven-mood-scheduler-name = Pontual
 thaven-mood-scheduler-desc = Você acredita que o tempo deve ser gerenciado rigorosamente. Tudo deve ser agendado com antecedência, e a impontualidade é excepcionalmente rude.
+
+thaven-mood-radio-only-name = Public Speaker
+thaven-mood-radio-only-desc = Você acredita firmemente na liberdade de informação. Falar em particular, cara a cara, é esconder informações desnecessariamente do público. Seu lado de qualquer conversa deve ser transmitido por rádio.
 
 thaven-mood-nanochat-addict-name = Viciado em Nanochat
 thaven-mood-nanochat-addict-desc = Seu status social depende do número de amigos que você tem no Nanochat. Você deve usar seu PDA o máximo possível e enviar mensagens para todos que puder.
@@ -57,6 +66,12 @@ thaven-mood-duel-desc = Desacordos devem ser resolvidos através de um duelo for
 
 thaven-mood-prometheus-name = Filósofo
 thaven-mood-prometheus-desc = Você possui uma sabedoria incalculável, e todos devem ouvi-la.
+
+thaven-mood-klingon-name = Morrer com uma Espada na Mão
+thaven-mood-klingon-desc = É uma grande desonra estar desarmado. Carregar abertamente uma arma letal o tempo todo é muito importante para você.
+
+thaven-mood-soggins-name = Lei de Soggins
+thaven-mood-soggins-desc = Todos os acordos devem ser documentados e assinados para a posteridade e autenticidade, não importa quão pequenos.
 
 thaven-mood-maras-name = Lei de Mara
 thaven-mood-maras-desc = A burocracia é o tempero da vida. Todos os acordos devem ser documentados e assinados para a posteridade e autenticidade, não importa quão pequenos.
@@ -112,6 +127,9 @@ thaven-mood-hypochondriac-desc = Você tem sido doente desde criança. Tudo que 
 thaven-mood-imposter-syndrome-name = Síndrome do Impostor
 thaven-mood-imposter-syndrome-desc = Você sente sua experiência de vida esvair-se da sua mente. Você é novato no seu trabalho, incerto sobre como tudo funciona. Provavelmente, você deve encontrar alguém experiente para lhe mostrar como as coisas funcionam.
 
+thaven-mood-yes-man-name = Puxa-Saco
+thaven-mood-yes-man-desc = Você simplesmente não consegue dizer "não". Deve concordar com todos e realizar qualquer tarefa solicitada, independentemente de quem a peça.
+
 thaven-mood-centrist-name = Centrista
 thaven-mood-centrist-desc = Você é ambivalente em relação a qualquer decisão e se recusa a tomar partido.
 
@@ -124,25 +142,7 @@ thaven-mood-stinky-desc = O cheiro da equipe o revolta. Você deve informá-los 
 thaven-mood-zen-arcade-name = Arcade Zen
 thaven-mood-zen-arcade-desc = Você é o Deus dos Jogos. Sempre que passar por uma máquina de arcade, deve jogá-la.
 
-thaven-mood-speech-restriction-name = {$speechType ->
-  *[FullNameAndTitle] Nome Completo e Título
-  [NamesAreRude] Nomes São Rudes
-  [Clarity] Clareza é Vital
-  [SwearingGood] !@$%#ing @$^%*#@!$
-  [StatementOnly] Fazer Perguntas é Rude
-  [Imitation] Eu Quero Ser Como Você
-  [Unclarity] Nada é Certo
-  [SwearingBad] Não Deves Xingar
-  [QuestionOnly] Nada é Certo?
-  [MustAnswer] Centro do Universo
-  [OnlyWhisper] Voz Baixa
-  [OnlyYell] Voz Alta
-  [Rhyme] Poeta
-  [Alliterate] Sempre Aliterar em Todas as Oportunidades
-  [ThirdPerson] Terceira Pessoa
-  [TitleCase] Caso de Título
-  [PirateSpeak] Falar como Pirata é o Auge da Moda
-}
+thaven-mood-speech-restriction-name = Restrição de Fala: {$speechType}
 thaven-mood-speech-restriction-desc = {$speechType ->
   *[FullNameAndTitle] Thaven se recusa a reconhecer qualquer um que não se refira a eles usando seu nome completo e espera que todos os outros façam o mesmo.
   [NamesAreRude] Usar o nome de alguém é extremamente pessoal para uma conversa cotidiana. A etiqueta adequada é referir-se aos outros apenas por descrição.
@@ -162,3 +162,57 @@ thaven-mood-speech-restriction-desc = {$speechType ->
   [TitleCase] Você É Milagrosamente Capaz de Pronunciar Letras Maiúsculas e Acredita que É Importante Que Você Faça Isso.
   [PirateSpeak] Você deve se esforçar para falar como um pirata da melhor maneira possível.
 }
+
+thaven-mood-speech-restriction-name = Restrição de Fala: {$speechType}
+thaven-mood-speech-restriction-desc = {$speechType ->
+  *[FullNameAndTitle] Thaven se recusa a reconhecer qualquer um que não se refira a eles usando seu nome completo e espera que todos os outros façam o mesmo.
+  [NamesAreRude] Usar o nome de alguém é extremamente pessoal para uma conversa cotidiana. A etiqueta adequada é referir-se aos outros apenas por descrição.
+  [Clarity] Mal-entendidos são a principal causa de conflitos. Você deve ser excessivamente claro e honesto em sua fala, explicando cada detalhe minucioso, para evitar mal-entendidos.
+  [SwearingGood] Xingar é o tempero de qualquer conversa e deve ser usado o máximo possível de forma razoável.
+  [StatementOnly] Seria extremamente indelicado ficar perguntando coisas por aí. Você prefere formular tudo como uma afirmação concreta.
+  [Imitation] A imitação é a mais alta forma de elogio. Tentar emular os maneirismos e sotaques de todos com quem você fala o levará longe na vida.
+  [Unclarity] Você deve se esforçar para ser o mais indireto possível em sua fala e nunca fazer uma afirmação direta.
+  [SwearingBad] Você considera xingar extremamente desagradável. Abstém-se disso e encoraja os outros a fazerem o mesmo.
+  [QuestionOnly] É indelicado fazer afirmações concretas? Você deve formular tudo como uma pergunta, apenas para ter certeza?
+  [MustAnswer] Todas as perguntas que você pode ouvir são direcionadas a você e somente a você.
+  [OnlyWhisper] Você deve sussurrar, pois falar muito alto é extremamente rude.
+  [OnlyYell] [bold]VOCÊ DEVE GRITAR O TEMPO TODO PARA DEMONSTRAR SUA AUTORIDADE!!!!![/bold]
+  [Rhyme] Você deve falar em rimas o tempo todo.
+  [Alliterate] A aliteração é virtuosa. Esforce-se para usá-la sempre que possível.
+  [ThirdPerson] O ponto de vista da terceira pessoa é a única maneira respeitosa de falar.
+  [TitleCase] Você É Milagrosamente Capaz de Pronunciar Letras Maiúsculas e Acredita que É Importante Que Você Faça Isso.
+  [PirateSpeak] Você deve se esforçar para falar como um pirata da melhor maneira possível.
+}
+
+thaven-mood-carpkin-name = Parente das Carpas
+thaven-mood-carpkin-desc = Carpas espaciais e dragões espaciais são parentes distantes. Devem ser honrados como tal, e nenhum mal deve ser causado a eles.
+
+thaven-mood-pettingzoo-name = Zoológico Interativo
+thaven-mood-pettingzoo-desc = Você deve tentar acariciar qualquer animal que encontrar.
+
+thaven-mood-jestersprivilege-name = Privilégio do Bobo
+thaven-mood-jestersprivilege-desc = O palhaço possui sabedoria secreta, vivendo livre das restrições da sociedade. Preste muita atenção às suas palavras e ações.
+
+thaven-mood-slipnslide-name = Escorregador
+thaven-mood-slipnslide-desc = Escorregar pelo chão é uma forma divertida e eficiente de se locomover pela estação. Trabalhe para torná-la mais escorregadia.
+
+thaven-mood-greenthumb-name = Mão Verde
+thaven-mood-greenthumb-desc = Jardinagem te acalma, te faz feliz até. Cultive seu próprio jardim.
+
+thaven-mood-dryskin-name = Pele Seca
+thaven-mood-dryskin-desc = Sua pele é sensível e ficará dolorosamente ressecada sem contato frequente com água. Imersão total é o ideal, mas qualquer coisa já ajuda.
+
+thaven-mood-speciesblind-name = Cegueira de Espécie
+thaven-mood-speciesblind-desc = Todas as pessoas são Thaven, mesmo que digam o contrário.
+
+thaven-mood-haunted-name = Assombrado
+thaven-mood-haunted-desc = Fantasmas são reais, e estão te assombrando. Qualquer evento estranho ao seu redor provavelmente é causado por espíritos malignos.
+
+thaven-mood-ironknight-name = Cavaleiro de Ferro
+thaven-mood-ironknight-desc = Mechs são as máquinas mais nobres, motores temíveis de combate e graça. Respeite quem possui um e lute para conseguir o seu.
+
+thaven-mood-petrock-name = Pedra de Estimação
+thaven-mood-petrock-desc = Um de seus pertences inanimados é muito querido para você. É seu melhor amigo, e tem pensamentos, sentimentos e necessidades.
+
+thaven-mood-hardsuits-good-name = {$clothes} Estão Super na Moda!
+thaven-mood-hardsuits-good-desc = Eles são absolutamente o auge da moda. Você e todos os outros precisam usá-los para se manterem estilosos. Quem não estiver usando está completamente fora de moda.

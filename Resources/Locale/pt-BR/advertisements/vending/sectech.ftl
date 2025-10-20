@@ -1,8 +1,9 @@
-advertisement-sectech-1 = Quebre uns crânios do sindicato!
-advertisement-sectech-2 = Os melhores equipamentos de combate!
-advertisement-sectech-3 = Não se esqueça - Violência resolve tudo!
-advertisement-sectech-4 = Suas armas estão aqui.
-advertisement-sectech-5 = Todos nós adoramos de poder!
-thankyou-sectech-1 = Dê um inferno neles!
-thankyou-sectech-2 = Vá fazer cumprir a lei!
-thankyou-sectech-3 = Vá prender espectadores inocentes!
+advertisement-sectech-1 = Quebre crânios de sindicalistas!
+advertisement-sectech-2 = Afunde algumas cabeças!
+advertisement-sectech-3 = Não se esqueça — causar dano é bom!
+advertisement-sectech-4 = Suas armas estão bem aqui.
+advertisement-sectech-5 = Todo mundo ama ter sede de poder!
+
+thankyou-sectech-1 = Arrebenta com tudo lá fora!
+thankyou-sectech-2 = Vai lá fazer cumprir a lei!
+thankyou-sectech-3 = Vá prender civis inocentes!

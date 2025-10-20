@@ -15,3 +15,10 @@ store-category-pointless = Sem propósito
 
 # Revenant
 store-category-abilities = Habilidades
+
+# Mago
+store-caregory-spellbook-offensive = Feitiços Ofensivos
+store-caregory-spellbook-defensive = Feitiços Defensivos
+store-caregory-spellbook-utility = Feitiços Utilitários
+store-caregory-spellbook-equipment = Equipamento de Mago
+store-caregory-spellbook-events = Feitiços de Evento

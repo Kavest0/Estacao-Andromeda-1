@@ -56,30 +56,52 @@ petting-failure-nymph = Você tenta acariciar {THE($target)}, mas {SUBJECT($targ
 petting-failure-shadow = Você tenta acariciar {THE($target)}, mas {SUBJECT($target)} mas sua mão passa através da fria escuridão de seu corpo.
 petting-failure-pibble = Você tenta acariciar {THE($target)}, e {SUBJECT($target)} avança em você!
 
-## Petting silicons
+## Acariciando silicons
 
-petting-success-honkbot = Você acaricia {THE($target)} em {POSS-ADJ($target)} cabeça de metal escorregadia.
-petting-success-mimebot = Você acaricia {THE($target)} em {POSS-ADJ($target)} cabeça de metal frio.
-petting-success-cleanbot = Você acaricia {THE($target)} em {POSS-ADJ($target)} cabeça de metal úmido.
-petting-success-medibot = Você acaricia {THE($target)} em {POSS-ADJ($target)} cabeça de metal estéril.
-petting-success-recycler = Você acaricia {THE($target)} em {POSS-ADJ($target)} exterior de aço levemente ameaçador.
+petting-success-honkbot = Você faz carinho em {THE($target)} na cabeça metálica escorregadia de {POSS-ADJ($target)}.
+petting-success-mimebot = Você faz carinho em {THE($target)} na cabeça metálica fria de {POSS-ADJ($target)}.
+petting-success-cleanbot = Você faz carinho em {THE($target)} na cabeça metálica úmida de {POSS-ADJ($target)}.
+petting-success-medibot = Você faz carinho em {THE($target)} na cabeça metálica estéril de {POSS-ADJ($target)}.
+petting-success-firebot = Você faz carinho em {THE($target)} na cabeça metálica quente de {POSS-ADJ($target)}.
+petting-success-generic-cyborg = Você faz carinho em {THE($target)} na cabeça metálica de {POSS-ADJ($target)}.
+petting-success-salvage-cyborg = Você faz carinho em {THE($target)} na cabeça metálica suja de {POSS-ADJ($target)}.
+petting-success-engineer-cyborg = Você faz carinho em {THE($target)} na cabeça metálica refletiva de {POSS-ADJ($target)}.
+petting-success-janitor-cyborg = Você faz carinho em {THE($target)} na cabeça metálica úmida de {POSS-ADJ($target)}.
+petting-success-medical-cyborg = Você faz carinho em {THE($target)} na cabeça metálica estéril de {POSS-ADJ($target)}.
+petting-success-service-cyborg = Você faz carinho em {THE($target)} na cabeça metálica elegante de {POSS-ADJ($target)}.
+petting-success-syndicate-cyborg = Você faz carinho em {THE($target)} na cabeça metálica ameaçadora de {POSS-ADJ($target)}.
+petting-success-derelict-cyborg = Você faz carinho em {THE($target)} na cabeça metálica enferrujada de {POSS-ADJ($target)}.
+petting-success-recycler = Você faz carinho em {THE($target)} na carcaça de aço levemente ameaçadora de {POSS-ADJ($target)}.
+petting-success-station-ai = Você faz carinho em {THE($target)} na tela quadrada e fria de {POSS-ADJ($target)}.
 
-petting-failure-honkbot = Você tenta acariciar {THE($target)}, mas {SUBJECT($target)} buzina em recusa!
-petting-failure-cleanbot = Você tenta acariciar {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado esfregando!
-petting-failure-mimebot = Você tenta acariciar {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado imitando!
-petting-failure-medibot = Você tenta acariciar {THE($target)}, mas {POSS-ADJ($target)} seringa quase fura sua mão!
+petting-failure-honkbot = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BASIC($target, "honk", "buzina")} em recusa!
+petting-failure-cleanbot = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado limpando!
+petting-failure-mimebot = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado mimando!
+petting-failure-medibot = Você tenta fazer carinho em {THE($target)}, mas a seringa de {POSS-ADJ($target)} quase perfura sua mão!
+petting-failure-firebot = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} te borrifa no rosto antes que você se aproxime!
+petting-failure-generic-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado recitando leis!
+petting-failure-salvage-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado perfurando!
+petting-failure-engineer-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado reparando!
+petting-failure-janitor-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado limpando!
+petting-failure-medical-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado salvando vidas!
+petting-failure-service-cyborg = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado atendendo os outros!
+petting-failure-syndicate-cyborg = Você tenta fazer carinho em {THE($target)}, mas a afiliação traiçoeira de {POSS-ADJ($target)} te faz reconsiderar.
+petting-failure-derelict-cyborg = Você tenta fazer carinho em {THE($target)}, mas o exterior enferrujado e irregular de {POSS-ADJ($target)} te faz reconsiderar.
+petting-failure-station-ai = Você tenta fazer carinho em {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "dá um choque")} na sua mão!
 
-## Rattling fences
+petting-success-station-ai-others = { CAPITALIZE(THE($user)) } faz carinho em {THE($target)} na tela quadrada e fria de {POSS-ADJ($target)}.
 
-fence-rattle-success = *chocalha*
+## Chacoalhando cercas
 
-## Hugging players
+fence-rattle-success = *chacoalha*
+
+## Abraçando jogadores
 
 hugging-success-generic = Você abraça {THE($target)}.
-hugging-success-generic-others = { CAPITALIZE(THE($user)) } abraçou {THE($target)}.
-hugging-success-generic-target = { CAPITALIZE(THE($user)) } te abraçou.
+hugging-success-generic-others = { CAPITALIZE(THE($user)) } abraça {THE($target)}.
+hugging-success-generic-target = { CAPITALIZE(THE($user)) } te abraça.
 
-## Other
+## Outros
 
-petting-success-tesla = Você acaricia {THE($target)}, violando as leis da natureza e da física.
-petting-failure-tesla = Você estende a mão em direção a {THE($target)}, mas ela zapeia sua mão para longe.
+petting-success-tesla = Você faz carinho em {THE($target)}, violando as leis da natureza e da física.
+petting-failure-tesla = Você tenta se aproximar de {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "dá um choque")} na sua mão!

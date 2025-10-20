@@ -1,62 +1,104 @@
-marking-GauzeLefteyePatch-gauze_lefteye_2 = Gaze em gaze (Esquerdo)
-marking-GauzeLefteyePatch = Gaze em gaze (Esquerdo)
+marking-GauzeLefteyePatch-gauze_lefteye_2 = Tapa-olho de Gaze (Esquerdo)
+marking-GauzeLefteyePatch = Tapa-olho de Gaze (Esquerdo)
 
-marking-GauzeLefteyeTape-gauze_lefteye_1 = Esparadrapo em gaze (Esquerdo)
-marking-GauzeLefteyeTape = Esparadrapo em gaze (Esquerdo)
+marking-GauzeLefteyePad-gauze_lefteye_1 = Almofada de Gaze (Esquerdo)
+marking-GauzeLefteyePad = Almofada de Gaze (Esquerdo)
 
-marking-GauzeRighteyePatch-gauze_righteye_2 = Gaze em gaze (Direito)
-marking-GauzeRighteyePatch = Gaze em gaze (Direito)
+marking-GauzeRighteyePatch-gauze_righteye_2 = Tapa-olho de Gaze (Direito)
+marking-GauzeRighteyePatch = Tapa-olho de Gaze (Direito)
 
-marking-GauzeRighteyeTape-gauze_righteye_1 = Esparadrapo em gaze (Direito)
-marking-GauzeRighteyeTape = Esparadrapo em gaze (Direito)
+marking-GauzeRighteyePad-gauze_righteye_1 = Almofada de Gaze (Direito)
+marking-GauzeRighteyePad = Almofada de Gaze (Direito)
 
-marking-GauzeShoulder-gauze_shoulder = Atadura de gaze para o ombro
-marking-GauzeShoulder = Atadura de gaze para o ombro
+marking-GauzeShoulder-gauze_shoulder = Tipóia de Gaze no Ombro
+marking-GauzeShoulder = Tipóia de Gaze no Ombro
 
-marking-GauzeStomach-gauze_abdomen = Atadura de gaze para o estômago
-marking-GauzeStomach = Atadura de gaze para o estômago
+marking-GauzeStomach-gauze_abdomen = Faixa de Gaze no Abdômen
+marking-GauzeStomach = Faixa de Gaze no Abdômen
 
-marking-GauzeUpperArmRight-gauze_upperarm_r = Atadura de gaze para o antebraço (Direito)
-marking-GauzeUpperArmRight = Atadura de gaze para o antebraço (Direito)
+marking-GauzeUpperArmRight-gauze_upperarm_r = Faixa de Gaze no Antebraço (Direito)
+marking-GauzeUpperArmRight = Faixa de Gaze no Antebraço (Direito)
 
-marking-GauzeLowerArmRight-gauze_lowerarm_r = Atadura de gaze para o pulso (Direito)
-marking-GauzeLowerArmRight = Atadura de gaze para o pulso (Direito)
+marking-GauzeLowerArmRight-gauze_lowerarm_r = Faixa de Gaze no Pulso (Direito)
+marking-GauzeLowerArmRight = Faixa de Gaze no Pulso (Direito)
 
-marking-GauzeLeftArm-gauze_leftarm = Atadura de gaze para o braço (Esquerdo)
-marking-GauzeLeftArm = Atadura de gaze para o braço (Esquerdo)
+marking-GauzeLeftArm-gauze_leftarm = Faixa de Gaze no Braço (Esquerdo)
+marking-GauzeLeftArm = Faixa de Gaze no Braço (Esquerdo)
 
-marking-GauzeLowerLegLeft-gauze_lowerleg_l = Atadura de gaze para o tornozelo (Esquerdo)
-marking-GauzeLowerLegLeft = Atadura de gaze para o tornozelo (Esquerdo)
+marking-GauzeLowerLegLeft-gauze_lowerleg_l = Faixa de Gaze no Tornozelo (Esquerdo)
+marking-GauzeLowerLegLeft = Faixa de Gaze no Tornozelo (Esquerdo)
 
-marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Atadura de gaze para a mão (Esquerda)
-marking-GauzeBoxerWrapLeft = Atadura de gaze para a mão (Esquerda)
+marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Faixa de Gaze na Mão (Esquerda)
+marking-GauzeBoxerWrapLeft = Faixa de Gaze na Mão (Esquerda)
 
-marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Atadura de gaze para a mão (Direita)
-marking-GauzeBoxerWrapRight = Atadura de gaze para a mão (Direita)
+marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Faixa de Gaze na Mão (Direita)
+marking-GauzeBoxerWrapRight = Faixa de Gaze na Mão (Direita)
 
-marking-GauzeUpperLegLeft-gauze_upperleg_l = Atadura de gaze para a coxa (Esquerda)
-marking-GauzeUpperLegLeft = Atadura de gaze para a coxa (Esquerda)
+marking-GauzeUpperLegLeft-gauze_upperleg_l = Faixa de Gaze na Coxa (Esquerda)
+marking-GauzeUpperLegLeft = Faixa de Gaze na Coxa (Esquerda)
 
-marking-GauzeLowerLegRight-gauze_lowerleg_r = Atadura de gaze para o tornozelo (Direito)
-marking-GauzeLowerLegRight = Atadura de gaze para o tornozelo (Direito)
+marking-GauzeLowerLegRight-gauze_lowerleg_r = Faixa de Gaze no Tornozelo (Direito)
+marking-GauzeLowerLegRight = Faixa de Gaze no Tornozelo (Direito)
 
-marking-GauzeUpperLegRight-gauze_upperleg_r = Atadura de gaze para a coxa (Direita)
-marking-GauzeUpperLegRight = Atadura de gaze para a coxa (Direita)
+marking-GauzeUpperLegRight-gauze_upperleg_r = Faixa de Gaze na Coxa (Direita)
+marking-GauzeUpperLegRight = Faixa de Gaze na Coxa (Direita)
 
-marking-GauzeBlindfold-gauze_blindfold = Venda de gaze
-marking-GauzeBlindfold = Venda de gaze
+marking-GauzeBlindfold-gauze_blindfold = Venda de Gaze
+marking-GauzeBlindfold = Venda de Gaze
 
-marking-GauzeLizardBlindfold-gauze_lizardblindfold = Venda de gaze ajustada
-marking-GauzeLizardBlindfold = Venda de gaze ajustada
+marking-GauzeHead-gauze_head = Faixa de Gaze na Cabeça
+marking-GauzeHead = Faixa de Gaze na Cabeça
 
-marking-GauzeLizardFootRight-gauze_lizardfoot_r = Atadura de gaze para o pé (Direito)
-marking-GauzeLizardFootRight = Atadura de gaze para o pé (Direito)
+marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Venda de Gaze Reptiliana
+marking-GauzeLizardBlindfold = Venda de Gaze Reptiliana
 
-marking-GauzeLizardFootLeft-gauze_lizardfoot_l = Atadura de gaze para o pé (Esquerdo)
-marking-GauzeLizardFootLeft = Atadura de gaze para o pé (Esquerdo)
+marking-GauzeLizardFootRight-gauze_lizard_foot_r = Faixa de Gaze no Pé Reptiliano (Direito)
+marking-GauzeLizardFootRight = Faixa de Gaze no Pé Reptiliano (Direito)
 
-marking-GauzeLizardLefteyePatch-gauze_lizardlefteye = Gaze ajustada (Esquerdo)
-marking-GauzeLizardLefteyePatch = Gaze ajustada (Esquerdo)
+marking-GauzeLizardFootLeft-gauze_lizard_foot_l = Faixa de Gaze no Pé Reptiliano (Esquerdo)
+marking-GauzeLizardFootLeft = Faixa de Gaze no Pé Reptiliano (Esquerdo)
 
-marking-GauzeLizardRighteyePatch-gauze_lizardrighteye = Gaze ajustada (Direito)
-marking-GauzeLizardRighteyePatch = Gaze ajustada (Direito)
+marking-GauzeLizardLefteyePatch-gauze_lizard_lefteye = Tapa-olho de Gaze Reptiliano (Esquerdo)
+marking-GauzeLizardLefteyePatch = Tapa-olho de Gaze Reptiliano (Esquerdo)
+
+marking-GauzeLizardRighteyePatch-gauze_lizard_righteye = Tapa-olho de Gaze Reptiliano (Direito)
+marking-GauzeLizardRighteyePatch = Tapa-olho de Gaze Reptiliano (Direito)
+
+marking-GauzeMothStomach-gauze_moth_abdomen = Faixa de Gaze no Abdômen Insetoide
+marking-GauzeMothStomach = Faixa de Gaze no Abdômen Insetoide
+
+marking-GauzeMothShoulder-gauze_moth_shoulder = Tipóia de Gaze no Ombro Insetoide
+marking-GauzeMothShoulder = Tipóia de Gaze no Ombro Insetoide
+
+marking-GauzeMothBlindfold-gauze_moth_blindfold = Venda de Gaze Insetoide
+marking-GauzeMothBlindfold = Venda de Gaze Insetoide
+
+marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Tapa-olho de Gaze Insetoide (Esquerdo)
+marking-GauzeMothLeftEyePatch = Tapa-olho de Gaze Insetoide (Esquerdo)
+
+marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Almofada de Gaze Insetoide (Esquerdo)
+marking-GauzeMothLeftEyePad = Almofada de Gaze Insetoide (Esquerdo)
+
+marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Tapa-olho de Gaze Insetoide (Direito)
+marking-GauzeMothRightEyePatch = Tapa-olho de Gaze Insetoide (Direito)
+
+marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Almofada de Gaze Insetoide (Direito)
+marking-GauzeMothRightEyePad = Almofada de Gaze Insetoide (Direito)
+
+marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Faixa de Gaze no Antebraço Insetoide (Direito)
+marking-GauzeMothUpperArmRight = Faixa de Gaze no Antebraço Insetoide (Direito)
+
+marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Faixa de Gaze no Antebraço Insetoide (Esquerdo)
+marking-GauzeMothUpperArmLeft = Faixa de Gaze no Antebraço Insetoide (Esquerdo)
+
+marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Faixa de Gaze na Coxa Insetoide (Direito)
+marking-GauzeMothUpperLegRight = Faixa de Gaze na Coxa Insetoide (Direito)
+
+marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Faixa de Gaze na Coxa Insetoide (Esquerdo)
+marking-GauzeMothUpperLegLeft = Faixa de Gaze na Coxa Insetoide (Esquerdo)
+
+marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Faixa de Gaze na Canela Insetoide (Direito)
+marking-GauzeMothLowerLegRight = Faixa de Gaze na Canela Insetoide (Direito)
+
+marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Faixa de Gaze na Canela Insetoide (Esquerdo)
+marking-GauzeMothLowerLegLeft = Faixa de Gaze na Canela Insetoide (Esquerdo)

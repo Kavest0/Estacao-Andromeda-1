@@ -3,6 +3,7 @@ lock-comp-on-examined-is-unlocked = A {$entityName} aparenta estar destrancada.
 lock-comp-do-lock-success = Você tranca a {$entityName}.
 lock-comp-do-unlock-success = Você destranca a {$entityName}.
 lock-comp-has-user-access-fail = Acesso negado
+lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} trancado.
 
 ## ToggleLockVerb
 

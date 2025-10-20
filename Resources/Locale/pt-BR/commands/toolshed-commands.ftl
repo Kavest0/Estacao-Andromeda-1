@@ -1,37 +1,37 @@
 ﻿command-description-visualize =
-    Coloca a lista de entidades de entrada em uma janela de interface para fácil navegação.
+    Exibe a lista de entidades em uma janela de interface para navegação fácil.
 command-description-runverbas =
-    Executa um verbo nas entidades de entrada com o usuário fornecido.
+    Executa um verbo nas entidades fornecidas com o usuário especificado.
 command-description-acmd-perms =
-    Retorna as permissões de administrador do comando fornecido, se houver.
+    Retorna as permissões administrativas do comando fornecido, se houver.
 command-description-acmd-caninvoke =
-    Verifica se o jogador fornecido pode invocar o comando fornecido.
+    Verifica se o jogador pode invocar o comando fornecido.
 command-description-jobs-jobs =
-    Retorna todos os trabalhos em uma estação.
+    Retorna todos os cargos de uma estação.
 command-description-jobs-job =
-    Retorna um trabalho específico em uma estação.
+    Retorna um cargo específico de uma estação.
 command-description-jobs-isinfinite =
-    Retorna verdadeiro se o trabalho de entrada for infinito, caso contrário, falso.
+    Retorna verdadeiro se o cargo for infinito, caso contrário falso.
 command-description-jobs-adjust =
-    Ajusta o número de vagas para o trabalho fornecido.
+    Ajusta o número de vagas para o cargo especificado.
 command-description-jobs-set =
-    Define o número de vagas para o trabalho fornecido.
+    Define o número de vagas para o cargo especificado.
 command-description-jobs-amount =
-    Retorna o número de vagas para o trabalho fornecido.
+    Retorna o número de vagas para o cargo especificado.
 command-description-laws-list =
-    Retorna uma lista de todas as entidades vinculadas por lei.
+    Retorna uma lista de todas as entidades vinculadas a leis.
 command-description-laws-get =
-    Retorna todas as leis de uma entidade fornecida.
+    Retorna todas as leis de uma entidade específica.
 command-description-stations-list =
     Retorna uma lista de todas as estações.
 command-description-stations-get =
     Obtém a estação ativa, se e somente se houver apenas uma.
 command-description-stations-getowningstation =
-    Obtém a estação à qual uma determinada entidade "pertence" (dentro).
+    Obtém a estação à qual uma entidade pertence (está dentro).
 command-description-stations-grids =
-    Retorna todas as grades associadas à estação de entrada.
+    Retorna todas as grades associadas à estação fornecida.
 command-description-stations-config =
-    Retorna a configuração associada à estação de entrada, se houver.
+    Retorna a configuração associada à estação fornecida, se houver.
 command-description-stations-addgrid =
     Adiciona uma grade à estação fornecida.
 command-description-stations-rmgrid =
@@ -39,25 +39,27 @@ command-description-stations-rmgrid =
 command-description-stations-rename =
     Renomeia a estação fornecida.
 command-description-stations-largestgrid =
-    Retorna a maior grade que a estação fornecida possui, se houver.
+    Retorna a maior grade da estação fornecida, se houver.
 command-description-stations-rerollBounties =
-    Limpa todas as recompensas atuais da estação e obtém uma nova seleção.
+    Limpa todas as recompensas atuais da estação e gera uma nova seleção.
 command-description-stationevent-lsprob =
-    Lista a probabilidade de diferentes eventos de estação ocorrerem no conjunto total.
+    Lista a probabilidade de diferentes eventos da estação ocorrerem no conjunto total.
 command-description-stationevent-lsprobtime =
-    Lista a probabilidade de diferentes eventos de estação ocorrerem com base no tempo especificado de uma rodada.
+    Lista a probabilidade de eventos da estação com base na duração especificada da rodada.
 command-description-stationevent-prob =
-    Retorna a probabilidade de um único evento de estação ocorrer no conjunto total.
+    Retorna a probabilidade de um único evento da estação ocorrer no conjunto total.
 command-description-admins-active =
     Retorna uma lista de administradores ativos.
 command-description-admins-all =
-    Retorna uma lista de TODOS os administradores, incluindo aqueles que não estão administrando.
+    Retorna uma lista de TODOS os administradores, incluindo os desativados.
 command-description-marked =
-    Retorna o valor de $marked como uma List<EntityUid>.
+    Retorna o valor de $marked como uma lista de EntityUid.
 command-description-rejuvenate =
-    Rejuvenesce as entidades fornecidas, restaurando-as à saúde total, limpando os efeitos de status, etc.
+    Revitaliza as entidades fornecidas, restaurando a saúde total e removendo efeitos de status.
 command-description-tag-list =
-    Lista as tags nas entidades fornecidas.
+    Lista as tags das entidades fornecidas.
+command-description-tag-with =
+    Retorna apenas as entidades com a tag especificada da lista fornecida.
 command-description-tag-add =
     Adiciona uma tag às entidades fornecidas.
 command-description-tag-rm =
@@ -67,16 +69,38 @@ command-description-tag-addmany =
 command-description-tag-rmmany =
     Remove uma lista de tags das entidades fornecidas.
 command-description-polymorph =
-    Polimorfa a entidade de entrada com o protótipo fornecido.
+    Polimorfiza a entidade fornecida com o protótipo especificado.
 command-description-unpolymorph =
     Reverte uma polimorfia.
 command-description-solution-get =
-    Pega a solução fornecida da entidade fornecida.
+    Obtém a solução da entidade fornecida.
 command-description-solution-adjreagent =
-    Ajusta o reagente fornecido na solução fornecida.
+    Ajusta o reagente especificado na solução fornecida.
 command-description-mind-get =
-    Pega a mente da entidade, se houver.
+    Obtém a mente da entidade, se houver.
 command-description-mind-control =
     Assume o controle de uma entidade com o jogador fornecido.
 command-description-addaccesslog =
-    Adiciona um log de acesso a esta entidade. Note que isso ignora o limite padrão de log e verificação de pausa.
+    Adiciona um log de acesso à entidade. Isso ignora o limite padrão e a verificação de pausa do log.
+command-description-stationevent-simulate =
+    Simula N rodadas em que eventos ocorrerão e imprime as ocorrências de cada evento.
+command-description-xenoartifact-list =
+    Lista todos os EntityUids de artefatos gerados.
+command-description-xenoartifact-printMatrix =
+    Imprime uma matriz que exibe todas as conexões entre os nós.
+command-description-xenoartifact-totalResearch =
+    Obtém todos os pontos de pesquisa que podem ser extraídos do artefato atual.
+command-description-xenoartifact-averageResearch =
+    Calcula a média de pontos de pesquisa que um artefato xeno gerado fornecerá quando totalmente ativado.
+command-description-xenoartifact-unlockAllNodes =
+    Desbloqueia todos os nós do artefato.
+command-description-jobboard-completeJob =
+    Conclui um trabalho da placa de salvamento para a estação.
+command-description-scale-set =
+    Define o tamanho do sprite de uma entidade para uma escala específica (sem alterar o corpo físico).
+command-description-scale-get =
+    Obtém a escala do sprite da entidade conforme definido pelo ScaleVisualsComponent. Não inclui alterações feitas diretamente no SpriteComponent.
+command-description-scale-multiply =
+    Multiplica o tamanho do sprite da entidade por um fator (sem alterar o corpo físico).
+command-description-scale-multiplywithfixture =
+    Multiplica o tamanho do sprite da entidade por um fator (incluindo o corpo físico).

@@ -1,6 +1,8 @@
 department-Cargo = Logística
 department-Civilian = Serviços Civis
 department-Command = Comando
+department-CentralCommand = Comando Central
+department-CentralCommandSpecial = Comando Central
 department-Engineering = Engenharia
 department-Medical = Médicina
 department-Security = Segurança

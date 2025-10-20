@@ -1,6 +1,6 @@
 admin-announce-title = Fazer anúncio
 admin-announce-announcement-placeholder = Texto do anúncio
-admin-announce-announcer-placeholder = Anunciador
+admin-announce-announcer-placeholder = Anunciante
 admin-announce-announcer-default = Central de Comando
 admin-announce-button = Anunciar
 admin-announce-type-station = Estação
